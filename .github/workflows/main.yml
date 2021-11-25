@@ -2,7 +2,7 @@ name: covid_northernireland_data_update
 # Controls when the action will run.
 on:
   schedule:
-    - cron:  '00 11 * * *'
+    - cron:  '00 02 * * *'
 jobs: 
   PlayerDataScrape:
     # The type of runner that the job will run on
