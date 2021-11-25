@@ -1,4 +1,4 @@
-source(here('code/00_source.R'))
+source('code/00_source.R')
 
 data_date = format(most_recent_weekday(Sys.Date() - 1), "%d%m%y")
 
