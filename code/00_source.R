@@ -122,6 +122,8 @@ local_df_collector = function(xls_file){
                 pad(group="area") %>%
                 mutate_if(is.numeric, funs(ifelse(is.na(.), 0, .)))
   
+  max_date <- max(case_df$date)
+  
   death_df <- read_excel(xls_file, sheet = "Deaths") %>%
                 clean_names() %>%
                 select(date = date_of_death,
@@ -129,7 +131,11 @@ local_df_collector = function(xls_file){
                        area = lgd
                 ) %>%
                 pad(group="area") %>%
-                mutate_if(is.numeric, funs(ifelse(is.na(.), 0, .))) 
+                mutate(deaths = replace_na(deaths, 0)) %>%
+                group_by(date, area) %>%
+                summarise(deaths = sum(deaths)) %>%
+                ungroup() %>%
+                filter(date <= max_date)
   
   full_df = full_join(case_df, death_df,
                  by = c('date', 'area')
