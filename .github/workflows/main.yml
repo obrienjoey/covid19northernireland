@@ -4,7 +4,7 @@ on:
   schedule:
     - cron:  '00 17 * * *'
 jobs: 
-  PlayerDataScrape:
+  CovidDataScrape:
     # The type of runner that the job will run on
     runs-on: windows-latest
     # Load repo and install R
