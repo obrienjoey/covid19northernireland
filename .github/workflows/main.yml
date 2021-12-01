@@ -1,9 +1,10 @@
+name: covid_northernireland_data_update
 # Controls when the action will run.
 on:
   schedule:
     - cron:  '00 17 * * *'
 jobs: 
-  LatestDataScrape:
+  PlayerDataScrape:
     # The type of runner that the job will run on
     runs-on: windows-latest
     # Load repo and install R
@@ -24,5 +25,3 @@ jobs:
     # Run R script
     - name: Get Data
       run: Rscript code/01_data_update.R
-      
-	
