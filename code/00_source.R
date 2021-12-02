@@ -140,7 +140,8 @@ local_df_collector = function(xls_file){
   full_df = full_join(case_df, death_df,
                  by = c('date', 'area')
   ) %>%
-    mutate(date = as.Date(date))
+    mutate(date = as.Date(date),
+           deaths = replace_na(deaths, 0))
   
   return(full_df)
   
