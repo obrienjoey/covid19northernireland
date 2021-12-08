@@ -177,3 +177,18 @@ local_hospital_df_collector = function(xls_file){
   
   return(admission_data)
 }
+
+inpatient_df_collector <- function(xls_file){
+  
+  inpatients_df <- read_excel(xls_file, sheet = "Inpatients") %>%
+    clean_names() %>%
+    rename(date = inpatients_at_midnight,
+           covid_patients = number_of_confirmed_covid_inpatients,
+           gender = sex
+    ) %>%
+    pad('day') %>%
+    mutate_if(is.numeric, funs(ifelse(is.na(.), 0, .)))
+  
+  return(inpatients_df)
+  
+}
