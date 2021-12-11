@@ -6,14 +6,6 @@ library(readxl)
 library(httr)
 library(here)
 
-palette = c('#264653',
-            '#2a9d8f',
-            '#e9c46a',
-            '#f4a261',
-            '#e76f51')
-
-ablack = '#202020'
-
 most_recent_weekday <- function(date){
   
   if(weekdays(date) == "Saturday"){
