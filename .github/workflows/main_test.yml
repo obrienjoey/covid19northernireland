@@ -34,6 +34,3 @@ jobs:
       env:
         REPO_KEY: ${{secrets.GITHUB_TOKEN}}
         username: github-actions
-    # Run R script
-    - name: Get Data2
-      run: Rscript code/01_data_update.R      
