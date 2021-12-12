@@ -1,5 +1,6 @@
 name: covid_northernireland_data_update
 # Controls when the action will run.
+on: push
 jobs: 
   CovidDataScrape:
     # The type of runner that the job will run on
