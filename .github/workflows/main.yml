@@ -24,8 +24,7 @@ jobs:
       shell: Rscript {0}
     # Run R script
     - name: Get Data
-      run: Rscript code/01_data_update.R
-      
+      run: Rscript code/01_data_update.R      
     - name: Test  
     # Add new files in data folder, commit along with other modified files, push
     - name: Commit Files 
