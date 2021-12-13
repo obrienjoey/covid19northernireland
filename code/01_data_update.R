@@ -1,6 +1,6 @@
 source('code/00_source.R')
 
-data_date = format(most_recent_weekday(Sys.Date() - 1), "%d%m%y")
+data_date = format(most_recent_weekday(Sys.Date()), "%d%m%y")
 
 fname = paste0('https://www.health-ni.gov.uk/sites/default/files/publications/health/doh-dd-',
                data_date,'.xlsx')
