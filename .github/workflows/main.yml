@@ -21,6 +21,7 @@ jobs:
         install.packages('readxl')
         install.packages('httr')
         install.packages('here')
+        install.packages('sf')
       shell: Rscript {0}
     # Run R script
     - name: Get Data
