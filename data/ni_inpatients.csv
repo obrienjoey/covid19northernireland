@@ -79485,7 +79485,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-25T00:00:00Z,Western,All,Aged 80 & Over,27
 2021-11-25T00:00:00Z,Western,All,Unknown,0
 2021-11-26T00:00:00Z,Belfast,Female,Aged 0 - 19,0
-2021-11-26T00:00:00Z,Belfast,Female,Aged 20 - 39,1
+2021-11-26T00:00:00Z,Belfast,Female,Aged 20 - 39,2
 2021-11-26T00:00:00Z,Belfast,Female,Aged 40 - 49,1
 2021-11-26T00:00:00Z,Belfast,Female,Aged 50 - 59,1
 2021-11-26T00:00:00Z,Belfast,Female,Aged 60 - 69,7
@@ -79545,7 +79545,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-26T00:00:00Z,South Eastern,Male,Aged 40 - 49,2
 2021-11-26T00:00:00Z,South Eastern,Male,Aged 50 - 59,5
 2021-11-26T00:00:00Z,South Eastern,Male,Aged 60 - 69,7
-2021-11-26T00:00:00Z,South Eastern,Male,Aged 70 - 79,7
+2021-11-26T00:00:00Z,South Eastern,Male,Aged 70 - 79,8
 2021-11-26T00:00:00Z,South Eastern,Male,Aged 80 & Over,4
 2021-11-26T00:00:00Z,South Eastern,Male,Unknown,0
 2021-11-26T00:00:00Z,Southern,Male,Aged 0 - 19,0
@@ -79565,7 +79565,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-26T00:00:00Z,Western,Male,Aged 80 & Over,19
 2021-11-26T00:00:00Z,Western,Male,Unknown,0
 2021-11-26T00:00:00Z,Belfast,All,Aged 0 - 19,0
-2021-11-26T00:00:00Z,Belfast,All,Aged 20 - 39,6
+2021-11-26T00:00:00Z,Belfast,All,Aged 20 - 39,7
 2021-11-26T00:00:00Z,Belfast,All,Aged 40 - 49,3
 2021-11-26T00:00:00Z,Belfast,All,Aged 50 - 59,9
 2021-11-26T00:00:00Z,Belfast,All,Aged 60 - 69,20
@@ -79585,7 +79585,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-26T00:00:00Z,South Eastern,All,Aged 40 - 49,3
 2021-11-26T00:00:00Z,South Eastern,All,Aged 50 - 59,8
 2021-11-26T00:00:00Z,South Eastern,All,Aged 60 - 69,9
-2021-11-26T00:00:00Z,South Eastern,All,Aged 70 - 79,9
+2021-11-26T00:00:00Z,South Eastern,All,Aged 70 - 79,10
 2021-11-26T00:00:00Z,South Eastern,All,Aged 80 & Over,14
 2021-11-26T00:00:00Z,South Eastern,All,Unknown,0
 2021-11-26T00:00:00Z,Southern,All,Aged 0 - 19,0
@@ -79605,7 +79605,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-26T00:00:00Z,Western,All,Aged 80 & Over,27
 2021-11-26T00:00:00Z,Western,All,Unknown,0
 2021-11-27T00:00:00Z,Belfast,Female,Aged 0 - 19,0
-2021-11-27T00:00:00Z,Belfast,Female,Aged 20 - 39,1
+2021-11-27T00:00:00Z,Belfast,Female,Aged 20 - 39,2
 2021-11-27T00:00:00Z,Belfast,Female,Aged 40 - 49,1
 2021-11-27T00:00:00Z,Belfast,Female,Aged 50 - 59,1
 2021-11-27T00:00:00Z,Belfast,Female,Aged 60 - 69,6
@@ -79665,7 +79665,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-27T00:00:00Z,South Eastern,Male,Aged 40 - 49,2
 2021-11-27T00:00:00Z,South Eastern,Male,Aged 50 - 59,4
 2021-11-27T00:00:00Z,South Eastern,Male,Aged 60 - 69,8
-2021-11-27T00:00:00Z,South Eastern,Male,Aged 70 - 79,7
+2021-11-27T00:00:00Z,South Eastern,Male,Aged 70 - 79,8
 2021-11-27T00:00:00Z,South Eastern,Male,Aged 80 & Over,4
 2021-11-27T00:00:00Z,South Eastern,Male,Unknown,0
 2021-11-27T00:00:00Z,Southern,Male,Aged 0 - 19,0
@@ -79685,7 +79685,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-27T00:00:00Z,Western,Male,Aged 80 & Over,19
 2021-11-27T00:00:00Z,Western,Male,Unknown,0
 2021-11-27T00:00:00Z,Belfast,All,Aged 0 - 19,0
-2021-11-27T00:00:00Z,Belfast,All,Aged 20 - 39,6
+2021-11-27T00:00:00Z,Belfast,All,Aged 20 - 39,7
 2021-11-27T00:00:00Z,Belfast,All,Aged 40 - 49,3
 2021-11-27T00:00:00Z,Belfast,All,Aged 50 - 59,8
 2021-11-27T00:00:00Z,Belfast,All,Aged 60 - 69,19
@@ -79705,7 +79705,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-27T00:00:00Z,South Eastern,All,Aged 40 - 49,4
 2021-11-27T00:00:00Z,South Eastern,All,Aged 50 - 59,6
 2021-11-27T00:00:00Z,South Eastern,All,Aged 60 - 69,10
-2021-11-27T00:00:00Z,South Eastern,All,Aged 70 - 79,9
+2021-11-27T00:00:00Z,South Eastern,All,Aged 70 - 79,10
 2021-11-27T00:00:00Z,South Eastern,All,Aged 80 & Over,14
 2021-11-27T00:00:00Z,South Eastern,All,Unknown,0
 2021-11-27T00:00:00Z,Southern,All,Aged 0 - 19,0
@@ -79725,7 +79725,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-27T00:00:00Z,Western,All,Aged 80 & Over,27
 2021-11-27T00:00:00Z,Western,All,Unknown,0
 2021-11-28T00:00:00Z,Belfast,Female,Aged 0 - 19,0
-2021-11-28T00:00:00Z,Belfast,Female,Aged 20 - 39,2
+2021-11-28T00:00:00Z,Belfast,Female,Aged 20 - 39,3
 2021-11-28T00:00:00Z,Belfast,Female,Aged 40 - 49,1
 2021-11-28T00:00:00Z,Belfast,Female,Aged 50 - 59,1
 2021-11-28T00:00:00Z,Belfast,Female,Aged 60 - 69,6
@@ -79785,7 +79785,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-28T00:00:00Z,South Eastern,Male,Aged 40 - 49,2
 2021-11-28T00:00:00Z,South Eastern,Male,Aged 50 - 59,5
 2021-11-28T00:00:00Z,South Eastern,Male,Aged 60 - 69,9
-2021-11-28T00:00:00Z,South Eastern,Male,Aged 70 - 79,7
+2021-11-28T00:00:00Z,South Eastern,Male,Aged 70 - 79,8
 2021-11-28T00:00:00Z,South Eastern,Male,Aged 80 & Over,5
 2021-11-28T00:00:00Z,South Eastern,Male,Unknown,0
 2021-11-28T00:00:00Z,Southern,Male,Aged 0 - 19,0
@@ -79805,7 +79805,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-28T00:00:00Z,Western,Male,Aged 80 & Over,19
 2021-11-28T00:00:00Z,Western,Male,Unknown,0
 2021-11-28T00:00:00Z,Belfast,All,Aged 0 - 19,0
-2021-11-28T00:00:00Z,Belfast,All,Aged 20 - 39,7
+2021-11-28T00:00:00Z,Belfast,All,Aged 20 - 39,8
 2021-11-28T00:00:00Z,Belfast,All,Aged 40 - 49,3
 2021-11-28T00:00:00Z,Belfast,All,Aged 50 - 59,8
 2021-11-28T00:00:00Z,Belfast,All,Aged 60 - 69,18
@@ -79825,7 +79825,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-28T00:00:00Z,South Eastern,All,Aged 40 - 49,5
 2021-11-28T00:00:00Z,South Eastern,All,Aged 50 - 59,7
 2021-11-28T00:00:00Z,South Eastern,All,Aged 60 - 69,11
-2021-11-28T00:00:00Z,South Eastern,All,Aged 70 - 79,11
+2021-11-28T00:00:00Z,South Eastern,All,Aged 70 - 79,12
 2021-11-28T00:00:00Z,South Eastern,All,Aged 80 & Over,17
 2021-11-28T00:00:00Z,South Eastern,All,Unknown,0
 2021-11-28T00:00:00Z,Southern,All,Aged 0 - 19,1
@@ -79845,7 +79845,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-28T00:00:00Z,Western,All,Aged 80 & Over,28
 2021-11-28T00:00:00Z,Western,All,Unknown,0
 2021-11-29T00:00:00Z,Belfast,Female,Aged 0 - 19,0
-2021-11-29T00:00:00Z,Belfast,Female,Aged 20 - 39,2
+2021-11-29T00:00:00Z,Belfast,Female,Aged 20 - 39,3
 2021-11-29T00:00:00Z,Belfast,Female,Aged 40 - 49,2
 2021-11-29T00:00:00Z,Belfast,Female,Aged 50 - 59,2
 2021-11-29T00:00:00Z,Belfast,Female,Aged 60 - 69,6
@@ -79905,7 +79905,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-29T00:00:00Z,South Eastern,Male,Aged 40 - 49,1
 2021-11-29T00:00:00Z,South Eastern,Male,Aged 50 - 59,7
 2021-11-29T00:00:00Z,South Eastern,Male,Aged 60 - 69,9
-2021-11-29T00:00:00Z,South Eastern,Male,Aged 70 - 79,8
+2021-11-29T00:00:00Z,South Eastern,Male,Aged 70 - 79,9
 2021-11-29T00:00:00Z,South Eastern,Male,Aged 80 & Over,5
 2021-11-29T00:00:00Z,South Eastern,Male,Unknown,0
 2021-11-29T00:00:00Z,Southern,Male,Aged 0 - 19,0
@@ -79925,7 +79925,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-29T00:00:00Z,Western,Male,Aged 80 & Over,18
 2021-11-29T00:00:00Z,Western,Male,Unknown,0
 2021-11-29T00:00:00Z,Belfast,All,Aged 0 - 19,0
-2021-11-29T00:00:00Z,Belfast,All,Aged 20 - 39,4
+2021-11-29T00:00:00Z,Belfast,All,Aged 20 - 39,5
 2021-11-29T00:00:00Z,Belfast,All,Aged 40 - 49,5
 2021-11-29T00:00:00Z,Belfast,All,Aged 50 - 59,8
 2021-11-29T00:00:00Z,Belfast,All,Aged 60 - 69,17
@@ -79945,7 +79945,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-29T00:00:00Z,South Eastern,All,Aged 40 - 49,4
 2021-11-29T00:00:00Z,South Eastern,All,Aged 50 - 59,9
 2021-11-29T00:00:00Z,South Eastern,All,Aged 60 - 69,11
-2021-11-29T00:00:00Z,South Eastern,All,Aged 70 - 79,15
+2021-11-29T00:00:00Z,South Eastern,All,Aged 70 - 79,16
 2021-11-29T00:00:00Z,South Eastern,All,Aged 80 & Over,16
 2021-11-29T00:00:00Z,South Eastern,All,Unknown,0
 2021-11-29T00:00:00Z,Southern,All,Aged 0 - 19,1
@@ -79965,7 +79965,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-29T00:00:00Z,Western,All,Aged 80 & Over,27
 2021-11-29T00:00:00Z,Western,All,Unknown,0
 2021-11-30T00:00:00Z,Belfast,Female,Aged 0 - 19,0
-2021-11-30T00:00:00Z,Belfast,Female,Aged 20 - 39,1
+2021-11-30T00:00:00Z,Belfast,Female,Aged 20 - 39,2
 2021-11-30T00:00:00Z,Belfast,Female,Aged 40 - 49,2
 2021-11-30T00:00:00Z,Belfast,Female,Aged 50 - 59,2
 2021-11-30T00:00:00Z,Belfast,Female,Aged 60 - 69,6
@@ -80025,7 +80025,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-30T00:00:00Z,South Eastern,Male,Aged 40 - 49,0
 2021-11-30T00:00:00Z,South Eastern,Male,Aged 50 - 59,4
 2021-11-30T00:00:00Z,South Eastern,Male,Aged 60 - 69,8
-2021-11-30T00:00:00Z,South Eastern,Male,Aged 70 - 79,7
+2021-11-30T00:00:00Z,South Eastern,Male,Aged 70 - 79,8
 2021-11-30T00:00:00Z,South Eastern,Male,Aged 80 & Over,4
 2021-11-30T00:00:00Z,South Eastern,Male,Unknown,0
 2021-11-30T00:00:00Z,Southern,Male,Aged 0 - 19,0
@@ -80045,7 +80045,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-30T00:00:00Z,Western,Male,Aged 80 & Over,19
 2021-11-30T00:00:00Z,Western,Male,Unknown,0
 2021-11-30T00:00:00Z,Belfast,All,Aged 0 - 19,0
-2021-11-30T00:00:00Z,Belfast,All,Aged 20 - 39,4
+2021-11-30T00:00:00Z,Belfast,All,Aged 20 - 39,5
 2021-11-30T00:00:00Z,Belfast,All,Aged 40 - 49,6
 2021-11-30T00:00:00Z,Belfast,All,Aged 50 - 59,10
 2021-11-30T00:00:00Z,Belfast,All,Aged 60 - 69,18
@@ -80065,7 +80065,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-30T00:00:00Z,South Eastern,All,Aged 40 - 49,2
 2021-11-30T00:00:00Z,South Eastern,All,Aged 50 - 59,6
 2021-11-30T00:00:00Z,South Eastern,All,Aged 60 - 69,11
-2021-11-30T00:00:00Z,South Eastern,All,Aged 70 - 79,13
+2021-11-30T00:00:00Z,South Eastern,All,Aged 70 - 79,14
 2021-11-30T00:00:00Z,South Eastern,All,Aged 80 & Over,14
 2021-11-30T00:00:00Z,South Eastern,All,Unknown,0
 2021-11-30T00:00:00Z,Southern,All,Aged 0 - 19,1
@@ -80085,13 +80085,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-11-30T00:00:00Z,Western,All,Aged 80 & Over,28
 2021-11-30T00:00:00Z,Western,All,Unknown,0
 2021-12-01T00:00:00Z,Belfast,Female,Aged 0 - 19,0
-2021-12-01T00:00:00Z,Belfast,Female,Aged 20 - 39,1
+2021-12-01T00:00:00Z,Belfast,Female,Aged 20 - 39,2
 2021-12-01T00:00:00Z,Belfast,Female,Aged 40 - 49,2
 2021-12-01T00:00:00Z,Belfast,Female,Aged 50 - 59,2
 2021-12-01T00:00:00Z,Belfast,Female,Aged 60 - 69,6
 2021-12-01T00:00:00Z,Belfast,Female,Aged 70 - 79,7
 2021-12-01T00:00:00Z,Belfast,Female,Aged 80 & Over,13
-2021-12-01T00:00:00Z,Belfast,Female,Unknown,5
+2021-12-01T00:00:00Z,Belfast,Female,Unknown,6
 2021-12-01T00:00:00Z,Northern,Female,Aged 0 - 19,0
 2021-12-01T00:00:00Z,Northern,Female,Aged 20 - 39,0
 2021-12-01T00:00:00Z,Northern,Female,Aged 40 - 49,1
@@ -80126,7 +80126,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-01T00:00:00Z,Western,Female,Unknown,0
 2021-12-01T00:00:00Z,Belfast,Male,Aged 0 - 19,0
 2021-12-01T00:00:00Z,Belfast,Male,Aged 20 - 39,2
-2021-12-01T00:00:00Z,Belfast,Male,Aged 40 - 49,4
+2021-12-01T00:00:00Z,Belfast,Male,Aged 40 - 49,5
 2021-12-01T00:00:00Z,Belfast,Male,Aged 50 - 59,8
 2021-12-01T00:00:00Z,Belfast,Male,Aged 60 - 69,11
 2021-12-01T00:00:00Z,Belfast,Male,Aged 70 - 79,9
@@ -80145,7 +80145,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-01T00:00:00Z,South Eastern,Male,Aged 40 - 49,0
 2021-12-01T00:00:00Z,South Eastern,Male,Aged 50 - 59,5
 2021-12-01T00:00:00Z,South Eastern,Male,Aged 60 - 69,9
-2021-12-01T00:00:00Z,South Eastern,Male,Aged 70 - 79,7
+2021-12-01T00:00:00Z,South Eastern,Male,Aged 70 - 79,8
 2021-12-01T00:00:00Z,South Eastern,Male,Aged 80 & Over,4
 2021-12-01T00:00:00Z,South Eastern,Male,Unknown,0
 2021-12-01T00:00:00Z,Southern,Male,Aged 0 - 19,0
@@ -80165,13 +80165,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-01T00:00:00Z,Western,Male,Aged 80 & Over,20
 2021-12-01T00:00:00Z,Western,Male,Unknown,0
 2021-12-01T00:00:00Z,Belfast,All,Aged 0 - 19,0
-2021-12-01T00:00:00Z,Belfast,All,Aged 20 - 39,3
-2021-12-01T00:00:00Z,Belfast,All,Aged 40 - 49,6
+2021-12-01T00:00:00Z,Belfast,All,Aged 20 - 39,4
+2021-12-01T00:00:00Z,Belfast,All,Aged 40 - 49,7
 2021-12-01T00:00:00Z,Belfast,All,Aged 50 - 59,10
 2021-12-01T00:00:00Z,Belfast,All,Aged 60 - 69,17
 2021-12-01T00:00:00Z,Belfast,All,Aged 70 - 79,16
 2021-12-01T00:00:00Z,Belfast,All,Aged 80 & Over,24
-2021-12-01T00:00:00Z,Belfast,All,Unknown,7
+2021-12-01T00:00:00Z,Belfast,All,Unknown,8
 2021-12-01T00:00:00Z,Northern,All,Aged 0 - 19,0
 2021-12-01T00:00:00Z,Northern,All,Aged 20 - 39,2
 2021-12-01T00:00:00Z,Northern,All,Aged 40 - 49,4
@@ -80185,7 +80185,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-01T00:00:00Z,South Eastern,All,Aged 40 - 49,1
 2021-12-01T00:00:00Z,South Eastern,All,Aged 50 - 59,7
 2021-12-01T00:00:00Z,South Eastern,All,Aged 60 - 69,12
-2021-12-01T00:00:00Z,South Eastern,All,Aged 70 - 79,12
+2021-12-01T00:00:00Z,South Eastern,All,Aged 70 - 79,13
 2021-12-01T00:00:00Z,South Eastern,All,Aged 80 & Over,14
 2021-12-01T00:00:00Z,South Eastern,All,Unknown,0
 2021-12-01T00:00:00Z,Southern,All,Aged 0 - 19,1
@@ -80205,13 +80205,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-01T00:00:00Z,Western,All,Aged 80 & Over,31
 2021-12-01T00:00:00Z,Western,All,Unknown,0
 2021-12-02T00:00:00Z,Belfast,Female,Aged 0 - 19,0
-2021-12-02T00:00:00Z,Belfast,Female,Aged 20 - 39,1
+2021-12-02T00:00:00Z,Belfast,Female,Aged 20 - 39,2
 2021-12-02T00:00:00Z,Belfast,Female,Aged 40 - 49,1
 2021-12-02T00:00:00Z,Belfast,Female,Aged 50 - 59,2
 2021-12-02T00:00:00Z,Belfast,Female,Aged 60 - 69,5
 2021-12-02T00:00:00Z,Belfast,Female,Aged 70 - 79,8
 2021-12-02T00:00:00Z,Belfast,Female,Aged 80 & Over,14
-2021-12-02T00:00:00Z,Belfast,Female,Unknown,6
+2021-12-02T00:00:00Z,Belfast,Female,Unknown,7
 2021-12-02T00:00:00Z,Northern,Female,Aged 0 - 19,0
 2021-12-02T00:00:00Z,Northern,Female,Aged 20 - 39,0
 2021-12-02T00:00:00Z,Northern,Female,Aged 40 - 49,0
@@ -80246,7 +80246,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-02T00:00:00Z,Western,Female,Unknown,0
 2021-12-02T00:00:00Z,Belfast,Male,Aged 0 - 19,0
 2021-12-02T00:00:00Z,Belfast,Male,Aged 20 - 39,3
-2021-12-02T00:00:00Z,Belfast,Male,Aged 40 - 49,3
+2021-12-02T00:00:00Z,Belfast,Male,Aged 40 - 49,4
 2021-12-02T00:00:00Z,Belfast,Male,Aged 50 - 59,8
 2021-12-02T00:00:00Z,Belfast,Male,Aged 60 - 69,10
 2021-12-02T00:00:00Z,Belfast,Male,Aged 70 - 79,9
@@ -80265,7 +80265,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-02T00:00:00Z,South Eastern,Male,Aged 40 - 49,0
 2021-12-02T00:00:00Z,South Eastern,Male,Aged 50 - 59,5
 2021-12-02T00:00:00Z,South Eastern,Male,Aged 60 - 69,8
-2021-12-02T00:00:00Z,South Eastern,Male,Aged 70 - 79,7
+2021-12-02T00:00:00Z,South Eastern,Male,Aged 70 - 79,8
 2021-12-02T00:00:00Z,South Eastern,Male,Aged 80 & Over,5
 2021-12-02T00:00:00Z,South Eastern,Male,Unknown,0
 2021-12-02T00:00:00Z,Southern,Male,Aged 0 - 19,0
@@ -80273,7 +80273,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-02T00:00:00Z,Southern,Male,Aged 40 - 49,5
 2021-12-02T00:00:00Z,Southern,Male,Aged 50 - 59,7
 2021-12-02T00:00:00Z,Southern,Male,Aged 60 - 69,9
-2021-12-02T00:00:00Z,Southern,Male,Aged 70 - 79,13
+2021-12-02T00:00:00Z,Southern,Male,Aged 70 - 79,14
 2021-12-02T00:00:00Z,Southern,Male,Aged 80 & Over,25
 2021-12-02T00:00:00Z,Southern,Male,Unknown,0
 2021-12-02T00:00:00Z,Western,Male,Aged 0 - 19,1
@@ -80285,13 +80285,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-02T00:00:00Z,Western,Male,Aged 80 & Over,21
 2021-12-02T00:00:00Z,Western,Male,Unknown,0
 2021-12-02T00:00:00Z,Belfast,All,Aged 0 - 19,0
-2021-12-02T00:00:00Z,Belfast,All,Aged 20 - 39,4
-2021-12-02T00:00:00Z,Belfast,All,Aged 40 - 49,4
+2021-12-02T00:00:00Z,Belfast,All,Aged 20 - 39,5
+2021-12-02T00:00:00Z,Belfast,All,Aged 40 - 49,5
 2021-12-02T00:00:00Z,Belfast,All,Aged 50 - 59,10
 2021-12-02T00:00:00Z,Belfast,All,Aged 60 - 69,15
 2021-12-02T00:00:00Z,Belfast,All,Aged 70 - 79,17
 2021-12-02T00:00:00Z,Belfast,All,Aged 80 & Over,24
-2021-12-02T00:00:00Z,Belfast,All,Unknown,8
+2021-12-02T00:00:00Z,Belfast,All,Unknown,9
 2021-12-02T00:00:00Z,Northern,All,Aged 0 - 19,0
 2021-12-02T00:00:00Z,Northern,All,Aged 20 - 39,2
 2021-12-02T00:00:00Z,Northern,All,Aged 40 - 49,4
@@ -80305,7 +80305,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-02T00:00:00Z,South Eastern,All,Aged 40 - 49,1
 2021-12-02T00:00:00Z,South Eastern,All,Aged 50 - 59,8
 2021-12-02T00:00:00Z,South Eastern,All,Aged 60 - 69,12
-2021-12-02T00:00:00Z,South Eastern,All,Aged 70 - 79,12
+2021-12-02T00:00:00Z,South Eastern,All,Aged 70 - 79,13
 2021-12-02T00:00:00Z,South Eastern,All,Aged 80 & Over,16
 2021-12-02T00:00:00Z,South Eastern,All,Unknown,0
 2021-12-02T00:00:00Z,Southern,All,Aged 0 - 19,0
@@ -80313,7 +80313,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-02T00:00:00Z,Southern,All,Aged 40 - 49,9
 2021-12-02T00:00:00Z,Southern,All,Aged 50 - 59,10
 2021-12-02T00:00:00Z,Southern,All,Aged 60 - 69,17
-2021-12-02T00:00:00Z,Southern,All,Aged 70 - 79,18
+2021-12-02T00:00:00Z,Southern,All,Aged 70 - 79,19
 2021-12-02T00:00:00Z,Southern,All,Aged 80 & Over,48
 2021-12-02T00:00:00Z,Southern,All,Unknown,0
 2021-12-02T00:00:00Z,Western,All,Aged 0 - 19,1
@@ -80325,13 +80325,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-02T00:00:00Z,Western,All,Aged 80 & Over,29
 2021-12-02T00:00:00Z,Western,All,Unknown,0
 2021-12-03T00:00:00Z,Belfast,Female,Aged 0 - 19,0
-2021-12-03T00:00:00Z,Belfast,Female,Aged 20 - 39,0
+2021-12-03T00:00:00Z,Belfast,Female,Aged 20 - 39,1
 2021-12-03T00:00:00Z,Belfast,Female,Aged 40 - 49,1
 2021-12-03T00:00:00Z,Belfast,Female,Aged 50 - 59,1
 2021-12-03T00:00:00Z,Belfast,Female,Aged 60 - 69,5
 2021-12-03T00:00:00Z,Belfast,Female,Aged 70 - 79,7
 2021-12-03T00:00:00Z,Belfast,Female,Aged 80 & Over,14
-2021-12-03T00:00:00Z,Belfast,Female,Unknown,8
+2021-12-03T00:00:00Z,Belfast,Female,Unknown,9
 2021-12-03T00:00:00Z,Northern,Female,Aged 0 - 19,1
 2021-12-03T00:00:00Z,Northern,Female,Aged 20 - 39,0
 2021-12-03T00:00:00Z,Northern,Female,Aged 40 - 49,1
@@ -80366,8 +80366,8 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-03T00:00:00Z,Western,Female,Unknown,0
 2021-12-03T00:00:00Z,Belfast,Male,Aged 0 - 19,0
 2021-12-03T00:00:00Z,Belfast,Male,Aged 20 - 39,3
-2021-12-03T00:00:00Z,Belfast,Male,Aged 40 - 49,3
-2021-12-03T00:00:00Z,Belfast,Male,Aged 50 - 59,8
+2021-12-03T00:00:00Z,Belfast,Male,Aged 40 - 49,4
+2021-12-03T00:00:00Z,Belfast,Male,Aged 50 - 59,9
 2021-12-03T00:00:00Z,Belfast,Male,Aged 60 - 69,11
 2021-12-03T00:00:00Z,Belfast,Male,Aged 70 - 79,8
 2021-12-03T00:00:00Z,Belfast,Male,Aged 80 & Over,9
@@ -80385,7 +80385,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-03T00:00:00Z,South Eastern,Male,Aged 40 - 49,0
 2021-12-03T00:00:00Z,South Eastern,Male,Aged 50 - 59,3
 2021-12-03T00:00:00Z,South Eastern,Male,Aged 60 - 69,8
-2021-12-03T00:00:00Z,South Eastern,Male,Aged 70 - 79,6
+2021-12-03T00:00:00Z,South Eastern,Male,Aged 70 - 79,7
 2021-12-03T00:00:00Z,South Eastern,Male,Aged 80 & Over,5
 2021-12-03T00:00:00Z,South Eastern,Male,Unknown,0
 2021-12-03T00:00:00Z,Southern,Male,Aged 0 - 19,0
@@ -80393,7 +80393,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-03T00:00:00Z,Southern,Male,Aged 40 - 49,4
 2021-12-03T00:00:00Z,Southern,Male,Aged 50 - 59,6
 2021-12-03T00:00:00Z,Southern,Male,Aged 60 - 69,11
-2021-12-03T00:00:00Z,Southern,Male,Aged 70 - 79,10
+2021-12-03T00:00:00Z,Southern,Male,Aged 70 - 79,11
 2021-12-03T00:00:00Z,Southern,Male,Aged 80 & Over,23
 2021-12-03T00:00:00Z,Southern,Male,Unknown,0
 2021-12-03T00:00:00Z,Western,Male,Aged 0 - 19,1
@@ -80405,13 +80405,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-03T00:00:00Z,Western,Male,Aged 80 & Over,19
 2021-12-03T00:00:00Z,Western,Male,Unknown,0
 2021-12-03T00:00:00Z,Belfast,All,Aged 0 - 19,0
-2021-12-03T00:00:00Z,Belfast,All,Aged 20 - 39,3
-2021-12-03T00:00:00Z,Belfast,All,Aged 40 - 49,4
-2021-12-03T00:00:00Z,Belfast,All,Aged 50 - 59,9
+2021-12-03T00:00:00Z,Belfast,All,Aged 20 - 39,4
+2021-12-03T00:00:00Z,Belfast,All,Aged 40 - 49,5
+2021-12-03T00:00:00Z,Belfast,All,Aged 50 - 59,10
 2021-12-03T00:00:00Z,Belfast,All,Aged 60 - 69,16
 2021-12-03T00:00:00Z,Belfast,All,Aged 70 - 79,15
 2021-12-03T00:00:00Z,Belfast,All,Aged 80 & Over,23
-2021-12-03T00:00:00Z,Belfast,All,Unknown,10
+2021-12-03T00:00:00Z,Belfast,All,Unknown,11
 2021-12-03T00:00:00Z,Northern,All,Aged 0 - 19,1
 2021-12-03T00:00:00Z,Northern,All,Aged 20 - 39,2
 2021-12-03T00:00:00Z,Northern,All,Aged 40 - 49,4
@@ -80425,7 +80425,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-03T00:00:00Z,South Eastern,All,Aged 40 - 49,1
 2021-12-03T00:00:00Z,South Eastern,All,Aged 50 - 59,6
 2021-12-03T00:00:00Z,South Eastern,All,Aged 60 - 69,12
-2021-12-03T00:00:00Z,South Eastern,All,Aged 70 - 79,11
+2021-12-03T00:00:00Z,South Eastern,All,Aged 70 - 79,12
 2021-12-03T00:00:00Z,South Eastern,All,Aged 80 & Over,16
 2021-12-03T00:00:00Z,South Eastern,All,Unknown,0
 2021-12-03T00:00:00Z,Southern,All,Aged 0 - 19,1
@@ -80433,7 +80433,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-03T00:00:00Z,Southern,All,Aged 40 - 49,8
 2021-12-03T00:00:00Z,Southern,All,Aged 50 - 59,11
 2021-12-03T00:00:00Z,Southern,All,Aged 60 - 69,19
-2021-12-03T00:00:00Z,Southern,All,Aged 70 - 79,15
+2021-12-03T00:00:00Z,Southern,All,Aged 70 - 79,16
 2021-12-03T00:00:00Z,Southern,All,Aged 80 & Over,47
 2021-12-03T00:00:00Z,Southern,All,Unknown,0
 2021-12-03T00:00:00Z,Western,All,Aged 0 - 19,1
@@ -80445,13 +80445,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-03T00:00:00Z,Western,All,Aged 80 & Over,27
 2021-12-03T00:00:00Z,Western,All,Unknown,0
 2021-12-04T00:00:00Z,Belfast,Female,Aged 0 - 19,0
-2021-12-04T00:00:00Z,Belfast,Female,Aged 20 - 39,1
+2021-12-04T00:00:00Z,Belfast,Female,Aged 20 - 39,2
 2021-12-04T00:00:00Z,Belfast,Female,Aged 40 - 49,1
 2021-12-04T00:00:00Z,Belfast,Female,Aged 50 - 59,1
 2021-12-04T00:00:00Z,Belfast,Female,Aged 60 - 69,3
 2021-12-04T00:00:00Z,Belfast,Female,Aged 70 - 79,6
 2021-12-04T00:00:00Z,Belfast,Female,Aged 80 & Over,17
-2021-12-04T00:00:00Z,Belfast,Female,Unknown,8
+2021-12-04T00:00:00Z,Belfast,Female,Unknown,9
 2021-12-04T00:00:00Z,Northern,Female,Aged 0 - 19,0
 2021-12-04T00:00:00Z,Northern,Female,Aged 20 - 39,0
 2021-12-04T00:00:00Z,Northern,Female,Aged 40 - 49,1
@@ -80486,8 +80486,8 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-04T00:00:00Z,Western,Female,Unknown,0
 2021-12-04T00:00:00Z,Belfast,Male,Aged 0 - 19,0
 2021-12-04T00:00:00Z,Belfast,Male,Aged 20 - 39,4
-2021-12-04T00:00:00Z,Belfast,Male,Aged 40 - 49,3
-2021-12-04T00:00:00Z,Belfast,Male,Aged 50 - 59,8
+2021-12-04T00:00:00Z,Belfast,Male,Aged 40 - 49,4
+2021-12-04T00:00:00Z,Belfast,Male,Aged 50 - 59,9
 2021-12-04T00:00:00Z,Belfast,Male,Aged 60 - 69,11
 2021-12-04T00:00:00Z,Belfast,Male,Aged 70 - 79,8
 2021-12-04T00:00:00Z,Belfast,Male,Aged 80 & Over,8
@@ -80505,7 +80505,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-04T00:00:00Z,South Eastern,Male,Aged 40 - 49,0
 2021-12-04T00:00:00Z,South Eastern,Male,Aged 50 - 59,3
 2021-12-04T00:00:00Z,South Eastern,Male,Aged 60 - 69,7
-2021-12-04T00:00:00Z,South Eastern,Male,Aged 70 - 79,4
+2021-12-04T00:00:00Z,South Eastern,Male,Aged 70 - 79,5
 2021-12-04T00:00:00Z,South Eastern,Male,Aged 80 & Over,4
 2021-12-04T00:00:00Z,South Eastern,Male,Unknown,0
 2021-12-04T00:00:00Z,Southern,Male,Aged 0 - 19,0
@@ -80513,7 +80513,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-04T00:00:00Z,Southern,Male,Aged 40 - 49,4
 2021-12-04T00:00:00Z,Southern,Male,Aged 50 - 59,9
 2021-12-04T00:00:00Z,Southern,Male,Aged 60 - 69,11
-2021-12-04T00:00:00Z,Southern,Male,Aged 70 - 79,11
+2021-12-04T00:00:00Z,Southern,Male,Aged 70 - 79,12
 2021-12-04T00:00:00Z,Southern,Male,Aged 80 & Over,23
 2021-12-04T00:00:00Z,Southern,Male,Unknown,0
 2021-12-04T00:00:00Z,Western,Male,Aged 0 - 19,1
@@ -80525,13 +80525,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-04T00:00:00Z,Western,Male,Aged 80 & Over,17
 2021-12-04T00:00:00Z,Western,Male,Unknown,0
 2021-12-04T00:00:00Z,Belfast,All,Aged 0 - 19,0
-2021-12-04T00:00:00Z,Belfast,All,Aged 20 - 39,5
-2021-12-04T00:00:00Z,Belfast,All,Aged 40 - 49,4
-2021-12-04T00:00:00Z,Belfast,All,Aged 50 - 59,9
+2021-12-04T00:00:00Z,Belfast,All,Aged 20 - 39,6
+2021-12-04T00:00:00Z,Belfast,All,Aged 40 - 49,5
+2021-12-04T00:00:00Z,Belfast,All,Aged 50 - 59,10
 2021-12-04T00:00:00Z,Belfast,All,Aged 60 - 69,14
 2021-12-04T00:00:00Z,Belfast,All,Aged 70 - 79,14
 2021-12-04T00:00:00Z,Belfast,All,Aged 80 & Over,25
-2021-12-04T00:00:00Z,Belfast,All,Unknown,10
+2021-12-04T00:00:00Z,Belfast,All,Unknown,11
 2021-12-04T00:00:00Z,Northern,All,Aged 0 - 19,0
 2021-12-04T00:00:00Z,Northern,All,Aged 20 - 39,2
 2021-12-04T00:00:00Z,Northern,All,Aged 40 - 49,4
@@ -80545,7 +80545,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-04T00:00:00Z,South Eastern,All,Aged 40 - 49,1
 2021-12-04T00:00:00Z,South Eastern,All,Aged 50 - 59,6
 2021-12-04T00:00:00Z,South Eastern,All,Aged 60 - 69,11
-2021-12-04T00:00:00Z,South Eastern,All,Aged 70 - 79,9
+2021-12-04T00:00:00Z,South Eastern,All,Aged 70 - 79,10
 2021-12-04T00:00:00Z,South Eastern,All,Aged 80 & Over,14
 2021-12-04T00:00:00Z,South Eastern,All,Unknown,0
 2021-12-04T00:00:00Z,Southern,All,Aged 0 - 19,1
@@ -80553,7 +80553,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-04T00:00:00Z,Southern,All,Aged 40 - 49,8
 2021-12-04T00:00:00Z,Southern,All,Aged 50 - 59,15
 2021-12-04T00:00:00Z,Southern,All,Aged 60 - 69,19
-2021-12-04T00:00:00Z,Southern,All,Aged 70 - 79,16
+2021-12-04T00:00:00Z,Southern,All,Aged 70 - 79,17
 2021-12-04T00:00:00Z,Southern,All,Aged 80 & Over,47
 2021-12-04T00:00:00Z,Southern,All,Unknown,0
 2021-12-04T00:00:00Z,Western,All,Aged 0 - 19,1
@@ -80565,13 +80565,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-04T00:00:00Z,Western,All,Aged 80 & Over,25
 2021-12-04T00:00:00Z,Western,All,Unknown,0
 2021-12-05T00:00:00Z,Belfast,Female,Aged 0 - 19,0
-2021-12-05T00:00:00Z,Belfast,Female,Aged 20 - 39,2
+2021-12-05T00:00:00Z,Belfast,Female,Aged 20 - 39,3
 2021-12-05T00:00:00Z,Belfast,Female,Aged 40 - 49,3
 2021-12-05T00:00:00Z,Belfast,Female,Aged 50 - 59,1
 2021-12-05T00:00:00Z,Belfast,Female,Aged 60 - 69,3
 2021-12-05T00:00:00Z,Belfast,Female,Aged 70 - 79,6
 2021-12-05T00:00:00Z,Belfast,Female,Aged 80 & Over,17
-2021-12-05T00:00:00Z,Belfast,Female,Unknown,8
+2021-12-05T00:00:00Z,Belfast,Female,Unknown,9
 2021-12-05T00:00:00Z,Northern,Female,Aged 0 - 19,0
 2021-12-05T00:00:00Z,Northern,Female,Aged 20 - 39,0
 2021-12-05T00:00:00Z,Northern,Female,Aged 40 - 49,1
@@ -80606,8 +80606,8 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-05T00:00:00Z,Western,Female,Unknown,0
 2021-12-05T00:00:00Z,Belfast,Male,Aged 0 - 19,0
 2021-12-05T00:00:00Z,Belfast,Male,Aged 20 - 39,5
-2021-12-05T00:00:00Z,Belfast,Male,Aged 40 - 49,4
-2021-12-05T00:00:00Z,Belfast,Male,Aged 50 - 59,9
+2021-12-05T00:00:00Z,Belfast,Male,Aged 40 - 49,5
+2021-12-05T00:00:00Z,Belfast,Male,Aged 50 - 59,10
 2021-12-05T00:00:00Z,Belfast,Male,Aged 60 - 69,11
 2021-12-05T00:00:00Z,Belfast,Male,Aged 70 - 79,8
 2021-12-05T00:00:00Z,Belfast,Male,Aged 80 & Over,7
@@ -80625,7 +80625,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-05T00:00:00Z,South Eastern,Male,Aged 40 - 49,1
 2021-12-05T00:00:00Z,South Eastern,Male,Aged 50 - 59,4
 2021-12-05T00:00:00Z,South Eastern,Male,Aged 60 - 69,7
-2021-12-05T00:00:00Z,South Eastern,Male,Aged 70 - 79,4
+2021-12-05T00:00:00Z,South Eastern,Male,Aged 70 - 79,5
 2021-12-05T00:00:00Z,South Eastern,Male,Aged 80 & Over,5
 2021-12-05T00:00:00Z,South Eastern,Male,Unknown,0
 2021-12-05T00:00:00Z,Southern,Male,Aged 0 - 19,0
@@ -80633,7 +80633,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-05T00:00:00Z,Southern,Male,Aged 40 - 49,4
 2021-12-05T00:00:00Z,Southern,Male,Aged 50 - 59,10
 2021-12-05T00:00:00Z,Southern,Male,Aged 60 - 69,11
-2021-12-05T00:00:00Z,Southern,Male,Aged 70 - 79,12
+2021-12-05T00:00:00Z,Southern,Male,Aged 70 - 79,13
 2021-12-05T00:00:00Z,Southern,Male,Aged 80 & Over,23
 2021-12-05T00:00:00Z,Southern,Male,Unknown,0
 2021-12-05T00:00:00Z,Western,Male,Aged 0 - 19,1
@@ -80645,13 +80645,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-05T00:00:00Z,Western,Male,Aged 80 & Over,18
 2021-12-05T00:00:00Z,Western,Male,Unknown,0
 2021-12-05T00:00:00Z,Belfast,All,Aged 0 - 19,0
-2021-12-05T00:00:00Z,Belfast,All,Aged 20 - 39,7
-2021-12-05T00:00:00Z,Belfast,All,Aged 40 - 49,7
-2021-12-05T00:00:00Z,Belfast,All,Aged 50 - 59,10
+2021-12-05T00:00:00Z,Belfast,All,Aged 20 - 39,8
+2021-12-05T00:00:00Z,Belfast,All,Aged 40 - 49,8
+2021-12-05T00:00:00Z,Belfast,All,Aged 50 - 59,11
 2021-12-05T00:00:00Z,Belfast,All,Aged 60 - 69,14
 2021-12-05T00:00:00Z,Belfast,All,Aged 70 - 79,14
 2021-12-05T00:00:00Z,Belfast,All,Aged 80 & Over,24
-2021-12-05T00:00:00Z,Belfast,All,Unknown,10
+2021-12-05T00:00:00Z,Belfast,All,Unknown,11
 2021-12-05T00:00:00Z,Northern,All,Aged 0 - 19,0
 2021-12-05T00:00:00Z,Northern,All,Aged 20 - 39,2
 2021-12-05T00:00:00Z,Northern,All,Aged 40 - 49,4
@@ -80665,7 +80665,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-05T00:00:00Z,South Eastern,All,Aged 40 - 49,2
 2021-12-05T00:00:00Z,South Eastern,All,Aged 50 - 59,6
 2021-12-05T00:00:00Z,South Eastern,All,Aged 60 - 69,11
-2021-12-05T00:00:00Z,South Eastern,All,Aged 70 - 79,9
+2021-12-05T00:00:00Z,South Eastern,All,Aged 70 - 79,10
 2021-12-05T00:00:00Z,South Eastern,All,Aged 80 & Over,16
 2021-12-05T00:00:00Z,South Eastern,All,Unknown,0
 2021-12-05T00:00:00Z,Southern,All,Aged 0 - 19,1
@@ -80673,7 +80673,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-05T00:00:00Z,Southern,All,Aged 40 - 49,8
 2021-12-05T00:00:00Z,Southern,All,Aged 50 - 59,17
 2021-12-05T00:00:00Z,Southern,All,Aged 60 - 69,19
-2021-12-05T00:00:00Z,Southern,All,Aged 70 - 79,18
+2021-12-05T00:00:00Z,Southern,All,Aged 70 - 79,19
 2021-12-05T00:00:00Z,Southern,All,Aged 80 & Over,47
 2021-12-05T00:00:00Z,Southern,All,Unknown,0
 2021-12-05T00:00:00Z,Western,All,Aged 0 - 19,1
@@ -80685,13 +80685,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-05T00:00:00Z,Western,All,Aged 80 & Over,26
 2021-12-05T00:00:00Z,Western,All,Unknown,0
 2021-12-06T00:00:00Z,Belfast,Female,Aged 0 - 19,0
-2021-12-06T00:00:00Z,Belfast,Female,Aged 20 - 39,1
+2021-12-06T00:00:00Z,Belfast,Female,Aged 20 - 39,2
 2021-12-06T00:00:00Z,Belfast,Female,Aged 40 - 49,3
 2021-12-06T00:00:00Z,Belfast,Female,Aged 50 - 59,2
 2021-12-06T00:00:00Z,Belfast,Female,Aged 60 - 69,3
 2021-12-06T00:00:00Z,Belfast,Female,Aged 70 - 79,5
 2021-12-06T00:00:00Z,Belfast,Female,Aged 80 & Over,16
-2021-12-06T00:00:00Z,Belfast,Female,Unknown,8
+2021-12-06T00:00:00Z,Belfast,Female,Unknown,9
 2021-12-06T00:00:00Z,Northern,Female,Aged 0 - 19,0
 2021-12-06T00:00:00Z,Northern,Female,Aged 20 - 39,0
 2021-12-06T00:00:00Z,Northern,Female,Aged 40 - 49,1
@@ -80726,8 +80726,8 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-06T00:00:00Z,Western,Female,Unknown,0
 2021-12-06T00:00:00Z,Belfast,Male,Aged 0 - 19,0
 2021-12-06T00:00:00Z,Belfast,Male,Aged 20 - 39,6
-2021-12-06T00:00:00Z,Belfast,Male,Aged 40 - 49,5
-2021-12-06T00:00:00Z,Belfast,Male,Aged 50 - 59,9
+2021-12-06T00:00:00Z,Belfast,Male,Aged 40 - 49,6
+2021-12-06T00:00:00Z,Belfast,Male,Aged 50 - 59,10
 2021-12-06T00:00:00Z,Belfast,Male,Aged 60 - 69,11
 2021-12-06T00:00:00Z,Belfast,Male,Aged 70 - 79,6
 2021-12-06T00:00:00Z,Belfast,Male,Aged 80 & Over,7
@@ -80745,15 +80745,15 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-06T00:00:00Z,South Eastern,Male,Aged 40 - 49,1
 2021-12-06T00:00:00Z,South Eastern,Male,Aged 50 - 59,4
 2021-12-06T00:00:00Z,South Eastern,Male,Aged 60 - 69,6
-2021-12-06T00:00:00Z,South Eastern,Male,Aged 70 - 79,4
-2021-12-06T00:00:00Z,South Eastern,Male,Aged 80 & Over,4
+2021-12-06T00:00:00Z,South Eastern,Male,Aged 70 - 79,5
+2021-12-06T00:00:00Z,South Eastern,Male,Aged 80 & Over,6
 2021-12-06T00:00:00Z,South Eastern,Male,Unknown,0
 2021-12-06T00:00:00Z,Southern,Male,Aged 0 - 19,0
 2021-12-06T00:00:00Z,Southern,Male,Aged 20 - 39,3
 2021-12-06T00:00:00Z,Southern,Male,Aged 40 - 49,4
 2021-12-06T00:00:00Z,Southern,Male,Aged 50 - 59,9
 2021-12-06T00:00:00Z,Southern,Male,Aged 60 - 69,14
-2021-12-06T00:00:00Z,Southern,Male,Aged 70 - 79,14
+2021-12-06T00:00:00Z,Southern,Male,Aged 70 - 79,15
 2021-12-06T00:00:00Z,Southern,Male,Aged 80 & Over,22
 2021-12-06T00:00:00Z,Southern,Male,Unknown,0
 2021-12-06T00:00:00Z,Western,Male,Aged 0 - 19,1
@@ -80765,13 +80765,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-06T00:00:00Z,Western,Male,Aged 80 & Over,17
 2021-12-06T00:00:00Z,Western,Male,Unknown,0
 2021-12-06T00:00:00Z,Belfast,All,Aged 0 - 19,0
-2021-12-06T00:00:00Z,Belfast,All,Aged 20 - 39,7
-2021-12-06T00:00:00Z,Belfast,All,Aged 40 - 49,8
-2021-12-06T00:00:00Z,Belfast,All,Aged 50 - 59,11
+2021-12-06T00:00:00Z,Belfast,All,Aged 20 - 39,8
+2021-12-06T00:00:00Z,Belfast,All,Aged 40 - 49,9
+2021-12-06T00:00:00Z,Belfast,All,Aged 50 - 59,12
 2021-12-06T00:00:00Z,Belfast,All,Aged 60 - 69,14
 2021-12-06T00:00:00Z,Belfast,All,Aged 70 - 79,11
 2021-12-06T00:00:00Z,Belfast,All,Aged 80 & Over,23
-2021-12-06T00:00:00Z,Belfast,All,Unknown,10
+2021-12-06T00:00:00Z,Belfast,All,Unknown,11
 2021-12-06T00:00:00Z,Northern,All,Aged 0 - 19,0
 2021-12-06T00:00:00Z,Northern,All,Aged 20 - 39,1
 2021-12-06T00:00:00Z,Northern,All,Aged 40 - 49,4
@@ -80785,15 +80785,15 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-06T00:00:00Z,South Eastern,All,Aged 40 - 49,2
 2021-12-06T00:00:00Z,South Eastern,All,Aged 50 - 59,7
 2021-12-06T00:00:00Z,South Eastern,All,Aged 60 - 69,10
-2021-12-06T00:00:00Z,South Eastern,All,Aged 70 - 79,9
-2021-12-06T00:00:00Z,South Eastern,All,Aged 80 & Over,15
+2021-12-06T00:00:00Z,South Eastern,All,Aged 70 - 79,10
+2021-12-06T00:00:00Z,South Eastern,All,Aged 80 & Over,17
 2021-12-06T00:00:00Z,South Eastern,All,Unknown,0
 2021-12-06T00:00:00Z,Southern,All,Aged 0 - 19,2
 2021-12-06T00:00:00Z,Southern,All,Aged 20 - 39,6
 2021-12-06T00:00:00Z,Southern,All,Aged 40 - 49,7
 2021-12-06T00:00:00Z,Southern,All,Aged 50 - 59,15
 2021-12-06T00:00:00Z,Southern,All,Aged 60 - 69,22
-2021-12-06T00:00:00Z,Southern,All,Aged 70 - 79,20
+2021-12-06T00:00:00Z,Southern,All,Aged 70 - 79,21
 2021-12-06T00:00:00Z,Southern,All,Aged 80 & Over,47
 2021-12-06T00:00:00Z,Southern,All,Unknown,0
 2021-12-06T00:00:00Z,Western,All,Aged 0 - 19,1
@@ -80805,13 +80805,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-06T00:00:00Z,Western,All,Aged 80 & Over,25
 2021-12-06T00:00:00Z,Western,All,Unknown,0
 2021-12-07T00:00:00Z,Belfast,Female,Aged 0 - 19,0
-2021-12-07T00:00:00Z,Belfast,Female,Aged 20 - 39,1
+2021-12-07T00:00:00Z,Belfast,Female,Aged 20 - 39,2
 2021-12-07T00:00:00Z,Belfast,Female,Aged 40 - 49,3
 2021-12-07T00:00:00Z,Belfast,Female,Aged 50 - 59,3
 2021-12-07T00:00:00Z,Belfast,Female,Aged 60 - 69,3
 2021-12-07T00:00:00Z,Belfast,Female,Aged 70 - 79,4
 2021-12-07T00:00:00Z,Belfast,Female,Aged 80 & Over,16
-2021-12-07T00:00:00Z,Belfast,Female,Unknown,10
+2021-12-07T00:00:00Z,Belfast,Female,Unknown,11
 2021-12-07T00:00:00Z,Northern,Female,Aged 0 - 19,0
 2021-12-07T00:00:00Z,Northern,Female,Aged 20 - 39,0
 2021-12-07T00:00:00Z,Northern,Female,Aged 40 - 49,0
@@ -80846,7 +80846,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-07T00:00:00Z,Western,Female,Unknown,0
 2021-12-07T00:00:00Z,Belfast,Male,Aged 0 - 19,0
 2021-12-07T00:00:00Z,Belfast,Male,Aged 20 - 39,5
-2021-12-07T00:00:00Z,Belfast,Male,Aged 40 - 49,5
+2021-12-07T00:00:00Z,Belfast,Male,Aged 40 - 49,6
 2021-12-07T00:00:00Z,Belfast,Male,Aged 50 - 59,11
 2021-12-07T00:00:00Z,Belfast,Male,Aged 60 - 69,10
 2021-12-07T00:00:00Z,Belfast,Male,Aged 70 - 79,6
@@ -80865,15 +80865,15 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-07T00:00:00Z,South Eastern,Male,Aged 40 - 49,2
 2021-12-07T00:00:00Z,South Eastern,Male,Aged 50 - 59,4
 2021-12-07T00:00:00Z,South Eastern,Male,Aged 60 - 69,5
-2021-12-07T00:00:00Z,South Eastern,Male,Aged 70 - 79,4
-2021-12-07T00:00:00Z,South Eastern,Male,Aged 80 & Over,3
+2021-12-07T00:00:00Z,South Eastern,Male,Aged 70 - 79,5
+2021-12-07T00:00:00Z,South Eastern,Male,Aged 80 & Over,5
 2021-12-07T00:00:00Z,South Eastern,Male,Unknown,0
 2021-12-07T00:00:00Z,Southern,Male,Aged 0 - 19,0
 2021-12-07T00:00:00Z,Southern,Male,Aged 20 - 39,3
 2021-12-07T00:00:00Z,Southern,Male,Aged 40 - 49,4
 2021-12-07T00:00:00Z,Southern,Male,Aged 50 - 59,9
-2021-12-07T00:00:00Z,Southern,Male,Aged 60 - 69,11
-2021-12-07T00:00:00Z,Southern,Male,Aged 70 - 79,13
+2021-12-07T00:00:00Z,Southern,Male,Aged 60 - 69,12
+2021-12-07T00:00:00Z,Southern,Male,Aged 70 - 79,14
 2021-12-07T00:00:00Z,Southern,Male,Aged 80 & Over,20
 2021-12-07T00:00:00Z,Southern,Male,Unknown,0
 2021-12-07T00:00:00Z,Western,Male,Aged 0 - 19,1
@@ -80885,13 +80885,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-07T00:00:00Z,Western,Male,Aged 80 & Over,16
 2021-12-07T00:00:00Z,Western,Male,Unknown,0
 2021-12-07T00:00:00Z,Belfast,All,Aged 0 - 19,0
-2021-12-07T00:00:00Z,Belfast,All,Aged 20 - 39,6
-2021-12-07T00:00:00Z,Belfast,All,Aged 40 - 49,8
+2021-12-07T00:00:00Z,Belfast,All,Aged 20 - 39,7
+2021-12-07T00:00:00Z,Belfast,All,Aged 40 - 49,9
 2021-12-07T00:00:00Z,Belfast,All,Aged 50 - 59,14
 2021-12-07T00:00:00Z,Belfast,All,Aged 60 - 69,13
 2021-12-07T00:00:00Z,Belfast,All,Aged 70 - 79,10
 2021-12-07T00:00:00Z,Belfast,All,Aged 80 & Over,23
-2021-12-07T00:00:00Z,Belfast,All,Unknown,14
+2021-12-07T00:00:00Z,Belfast,All,Unknown,15
 2021-12-07T00:00:00Z,Northern,All,Aged 0 - 19,0
 2021-12-07T00:00:00Z,Northern,All,Aged 20 - 39,1
 2021-12-07T00:00:00Z,Northern,All,Aged 40 - 49,3
@@ -80905,15 +80905,15 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-07T00:00:00Z,South Eastern,All,Aged 40 - 49,4
 2021-12-07T00:00:00Z,South Eastern,All,Aged 50 - 59,7
 2021-12-07T00:00:00Z,South Eastern,All,Aged 60 - 69,8
-2021-12-07T00:00:00Z,South Eastern,All,Aged 70 - 79,9
-2021-12-07T00:00:00Z,South Eastern,All,Aged 80 & Over,14
+2021-12-07T00:00:00Z,South Eastern,All,Aged 70 - 79,10
+2021-12-07T00:00:00Z,South Eastern,All,Aged 80 & Over,16
 2021-12-07T00:00:00Z,South Eastern,All,Unknown,0
 2021-12-07T00:00:00Z,Southern,All,Aged 0 - 19,2
 2021-12-07T00:00:00Z,Southern,All,Aged 20 - 39,7
 2021-12-07T00:00:00Z,Southern,All,Aged 40 - 49,7
 2021-12-07T00:00:00Z,Southern,All,Aged 50 - 59,15
-2021-12-07T00:00:00Z,Southern,All,Aged 60 - 69,18
-2021-12-07T00:00:00Z,Southern,All,Aged 70 - 79,19
+2021-12-07T00:00:00Z,Southern,All,Aged 60 - 69,19
+2021-12-07T00:00:00Z,Southern,All,Aged 70 - 79,20
 2021-12-07T00:00:00Z,Southern,All,Aged 80 & Over,45
 2021-12-07T00:00:00Z,Southern,All,Unknown,0
 2021-12-07T00:00:00Z,Western,All,Aged 0 - 19,1
@@ -80925,13 +80925,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-07T00:00:00Z,Western,All,Aged 80 & Over,24
 2021-12-07T00:00:00Z,Western,All,Unknown,0
 2021-12-08T00:00:00Z,Belfast,Female,Aged 0 - 19,0
-2021-12-08T00:00:00Z,Belfast,Female,Aged 20 - 39,1
+2021-12-08T00:00:00Z,Belfast,Female,Aged 20 - 39,2
 2021-12-08T00:00:00Z,Belfast,Female,Aged 40 - 49,4
 2021-12-08T00:00:00Z,Belfast,Female,Aged 50 - 59,4
 2021-12-08T00:00:00Z,Belfast,Female,Aged 60 - 69,3
 2021-12-08T00:00:00Z,Belfast,Female,Aged 70 - 79,5
 2021-12-08T00:00:00Z,Belfast,Female,Aged 80 & Over,17
-2021-12-08T00:00:00Z,Belfast,Female,Unknown,10
+2021-12-08T00:00:00Z,Belfast,Female,Unknown,11
 2021-12-08T00:00:00Z,Northern,Female,Aged 0 - 19,0
 2021-12-08T00:00:00Z,Northern,Female,Aged 20 - 39,0
 2021-12-08T00:00:00Z,Northern,Female,Aged 40 - 49,0
@@ -80951,7 +80951,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-08T00:00:00Z,Southern,Female,Aged 0 - 19,1
 2021-12-08T00:00:00Z,Southern,Female,Aged 20 - 39,6
 2021-12-08T00:00:00Z,Southern,Female,Aged 40 - 49,4
-2021-12-08T00:00:00Z,Southern,Female,Aged 50 - 59,6
+2021-12-08T00:00:00Z,Southern,Female,Aged 50 - 59,7
 2021-12-08T00:00:00Z,Southern,Female,Aged 60 - 69,6
 2021-12-08T00:00:00Z,Southern,Female,Aged 70 - 79,5
 2021-12-08T00:00:00Z,Southern,Female,Aged 80 & Over,24
@@ -80965,8 +80965,8 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-08T00:00:00Z,Western,Female,Aged 80 & Over,7
 2021-12-08T00:00:00Z,Western,Female,Unknown,0
 2021-12-08T00:00:00Z,Belfast,Male,Aged 0 - 19,0
-2021-12-08T00:00:00Z,Belfast,Male,Aged 20 - 39,5
-2021-12-08T00:00:00Z,Belfast,Male,Aged 40 - 49,3
+2021-12-08T00:00:00Z,Belfast,Male,Aged 20 - 39,6
+2021-12-08T00:00:00Z,Belfast,Male,Aged 40 - 49,4
 2021-12-08T00:00:00Z,Belfast,Male,Aged 50 - 59,12
 2021-12-08T00:00:00Z,Belfast,Male,Aged 60 - 69,12
 2021-12-08T00:00:00Z,Belfast,Male,Aged 70 - 79,6
@@ -80985,15 +80985,15 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-08T00:00:00Z,South Eastern,Male,Aged 40 - 49,1
 2021-12-08T00:00:00Z,South Eastern,Male,Aged 50 - 59,3
 2021-12-08T00:00:00Z,South Eastern,Male,Aged 60 - 69,6
-2021-12-08T00:00:00Z,South Eastern,Male,Aged 70 - 79,4
-2021-12-08T00:00:00Z,South Eastern,Male,Aged 80 & Over,3
+2021-12-08T00:00:00Z,South Eastern,Male,Aged 70 - 79,5
+2021-12-08T00:00:00Z,South Eastern,Male,Aged 80 & Over,5
 2021-12-08T00:00:00Z,South Eastern,Male,Unknown,0
 2021-12-08T00:00:00Z,Southern,Male,Aged 0 - 19,0
 2021-12-08T00:00:00Z,Southern,Male,Aged 20 - 39,3
 2021-12-08T00:00:00Z,Southern,Male,Aged 40 - 49,3
 2021-12-08T00:00:00Z,Southern,Male,Aged 50 - 59,7
-2021-12-08T00:00:00Z,Southern,Male,Aged 60 - 69,11
-2021-12-08T00:00:00Z,Southern,Male,Aged 70 - 79,14
+2021-12-08T00:00:00Z,Southern,Male,Aged 60 - 69,12
+2021-12-08T00:00:00Z,Southern,Male,Aged 70 - 79,15
 2021-12-08T00:00:00Z,Southern,Male,Aged 80 & Over,20
 2021-12-08T00:00:00Z,Southern,Male,Unknown,0
 2021-12-08T00:00:00Z,Western,Male,Aged 0 - 19,1
@@ -81005,13 +81005,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-08T00:00:00Z,Western,Male,Aged 80 & Over,16
 2021-12-08T00:00:00Z,Western,Male,Unknown,0
 2021-12-08T00:00:00Z,Belfast,All,Aged 0 - 19,0
-2021-12-08T00:00:00Z,Belfast,All,Aged 20 - 39,6
-2021-12-08T00:00:00Z,Belfast,All,Aged 40 - 49,7
+2021-12-08T00:00:00Z,Belfast,All,Aged 20 - 39,8
+2021-12-08T00:00:00Z,Belfast,All,Aged 40 - 49,8
 2021-12-08T00:00:00Z,Belfast,All,Aged 50 - 59,16
 2021-12-08T00:00:00Z,Belfast,All,Aged 60 - 69,15
 2021-12-08T00:00:00Z,Belfast,All,Aged 70 - 79,11
 2021-12-08T00:00:00Z,Belfast,All,Aged 80 & Over,23
-2021-12-08T00:00:00Z,Belfast,All,Unknown,14
+2021-12-08T00:00:00Z,Belfast,All,Unknown,15
 2021-12-08T00:00:00Z,Northern,All,Aged 0 - 19,0
 2021-12-08T00:00:00Z,Northern,All,Aged 20 - 39,1
 2021-12-08T00:00:00Z,Northern,All,Aged 40 - 49,2
@@ -81025,15 +81025,15 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-08T00:00:00Z,South Eastern,All,Aged 40 - 49,3
 2021-12-08T00:00:00Z,South Eastern,All,Aged 50 - 59,6
 2021-12-08T00:00:00Z,South Eastern,All,Aged 60 - 69,9
-2021-12-08T00:00:00Z,South Eastern,All,Aged 70 - 79,8
-2021-12-08T00:00:00Z,South Eastern,All,Aged 80 & Over,12
+2021-12-08T00:00:00Z,South Eastern,All,Aged 70 - 79,9
+2021-12-08T00:00:00Z,South Eastern,All,Aged 80 & Over,14
 2021-12-08T00:00:00Z,South Eastern,All,Unknown,0
 2021-12-08T00:00:00Z,Southern,All,Aged 0 - 19,1
 2021-12-08T00:00:00Z,Southern,All,Aged 20 - 39,9
 2021-12-08T00:00:00Z,Southern,All,Aged 40 - 49,7
-2021-12-08T00:00:00Z,Southern,All,Aged 50 - 59,13
-2021-12-08T00:00:00Z,Southern,All,Aged 60 - 69,17
-2021-12-08T00:00:00Z,Southern,All,Aged 70 - 79,19
+2021-12-08T00:00:00Z,Southern,All,Aged 50 - 59,14
+2021-12-08T00:00:00Z,Southern,All,Aged 60 - 69,18
+2021-12-08T00:00:00Z,Southern,All,Aged 70 - 79,20
 2021-12-08T00:00:00Z,Southern,All,Aged 80 & Over,44
 2021-12-08T00:00:00Z,Southern,All,Unknown,0
 2021-12-08T00:00:00Z,Western,All,Aged 0 - 19,1
@@ -81045,13 +81045,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-08T00:00:00Z,Western,All,Aged 80 & Over,23
 2021-12-08T00:00:00Z,Western,All,Unknown,0
 2021-12-09T00:00:00Z,Belfast,Female,Aged 0 - 19,0
-2021-12-09T00:00:00Z,Belfast,Female,Aged 20 - 39,1
+2021-12-09T00:00:00Z,Belfast,Female,Aged 20 - 39,2
 2021-12-09T00:00:00Z,Belfast,Female,Aged 40 - 49,4
 2021-12-09T00:00:00Z,Belfast,Female,Aged 50 - 59,3
 2021-12-09T00:00:00Z,Belfast,Female,Aged 60 - 69,1
 2021-12-09T00:00:00Z,Belfast,Female,Aged 70 - 79,6
 2021-12-09T00:00:00Z,Belfast,Female,Aged 80 & Over,16
-2021-12-09T00:00:00Z,Belfast,Female,Unknown,10
+2021-12-09T00:00:00Z,Belfast,Female,Unknown,11
 2021-12-09T00:00:00Z,Northern,Female,Aged 0 - 19,0
 2021-12-09T00:00:00Z,Northern,Female,Aged 20 - 39,0
 2021-12-09T00:00:00Z,Northern,Female,Aged 40 - 49,0
@@ -81071,7 +81071,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-09T00:00:00Z,Southern,Female,Aged 0 - 19,0
 2021-12-09T00:00:00Z,Southern,Female,Aged 20 - 39,3
 2021-12-09T00:00:00Z,Southern,Female,Aged 40 - 49,5
-2021-12-09T00:00:00Z,Southern,Female,Aged 50 - 59,5
+2021-12-09T00:00:00Z,Southern,Female,Aged 50 - 59,6
 2021-12-09T00:00:00Z,Southern,Female,Aged 60 - 69,6
 2021-12-09T00:00:00Z,Southern,Female,Aged 70 - 79,6
 2021-12-09T00:00:00Z,Southern,Female,Aged 80 & Over,24
@@ -81085,7 +81085,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-09T00:00:00Z,Western,Female,Aged 80 & Over,7
 2021-12-09T00:00:00Z,Western,Female,Unknown,0
 2021-12-09T00:00:00Z,Belfast,Male,Aged 0 - 19,0
-2021-12-09T00:00:00Z,Belfast,Male,Aged 20 - 39,4
+2021-12-09T00:00:00Z,Belfast,Male,Aged 20 - 39,5
 2021-12-09T00:00:00Z,Belfast,Male,Aged 40 - 49,3
 2021-12-09T00:00:00Z,Belfast,Male,Aged 50 - 59,11
 2021-12-09T00:00:00Z,Belfast,Male,Aged 60 - 69,12
@@ -81105,15 +81105,15 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-09T00:00:00Z,South Eastern,Male,Aged 40 - 49,1
 2021-12-09T00:00:00Z,South Eastern,Male,Aged 50 - 59,3
 2021-12-09T00:00:00Z,South Eastern,Male,Aged 60 - 69,5
-2021-12-09T00:00:00Z,South Eastern,Male,Aged 70 - 79,3
-2021-12-09T00:00:00Z,South Eastern,Male,Aged 80 & Over,4
+2021-12-09T00:00:00Z,South Eastern,Male,Aged 70 - 79,4
+2021-12-09T00:00:00Z,South Eastern,Male,Aged 80 & Over,6
 2021-12-09T00:00:00Z,South Eastern,Male,Unknown,0
 2021-12-09T00:00:00Z,Southern,Male,Aged 0 - 19,0
 2021-12-09T00:00:00Z,Southern,Male,Aged 20 - 39,2
 2021-12-09T00:00:00Z,Southern,Male,Aged 40 - 49,3
 2021-12-09T00:00:00Z,Southern,Male,Aged 50 - 59,6
-2021-12-09T00:00:00Z,Southern,Male,Aged 60 - 69,12
-2021-12-09T00:00:00Z,Southern,Male,Aged 70 - 79,13
+2021-12-09T00:00:00Z,Southern,Male,Aged 60 - 69,13
+2021-12-09T00:00:00Z,Southern,Male,Aged 70 - 79,14
 2021-12-09T00:00:00Z,Southern,Male,Aged 80 & Over,20
 2021-12-09T00:00:00Z,Southern,Male,Unknown,0
 2021-12-09T00:00:00Z,Western,Male,Aged 0 - 19,1
@@ -81125,13 +81125,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-09T00:00:00Z,Western,Male,Aged 80 & Over,14
 2021-12-09T00:00:00Z,Western,Male,Unknown,0
 2021-12-09T00:00:00Z,Belfast,All,Aged 0 - 19,0
-2021-12-09T00:00:00Z,Belfast,All,Aged 20 - 39,5
+2021-12-09T00:00:00Z,Belfast,All,Aged 20 - 39,7
 2021-12-09T00:00:00Z,Belfast,All,Aged 40 - 49,7
 2021-12-09T00:00:00Z,Belfast,All,Aged 50 - 59,14
 2021-12-09T00:00:00Z,Belfast,All,Aged 60 - 69,13
 2021-12-09T00:00:00Z,Belfast,All,Aged 70 - 79,12
 2021-12-09T00:00:00Z,Belfast,All,Aged 80 & Over,22
-2021-12-09T00:00:00Z,Belfast,All,Unknown,14
+2021-12-09T00:00:00Z,Belfast,All,Unknown,15
 2021-12-09T00:00:00Z,Northern,All,Aged 0 - 19,0
 2021-12-09T00:00:00Z,Northern,All,Aged 20 - 39,1
 2021-12-09T00:00:00Z,Northern,All,Aged 40 - 49,2
@@ -81145,15 +81145,15 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-09T00:00:00Z,South Eastern,All,Aged 40 - 49,4
 2021-12-09T00:00:00Z,South Eastern,All,Aged 50 - 59,6
 2021-12-09T00:00:00Z,South Eastern,All,Aged 60 - 69,9
-2021-12-09T00:00:00Z,South Eastern,All,Aged 70 - 79,7
-2021-12-09T00:00:00Z,South Eastern,All,Aged 80 & Over,12
+2021-12-09T00:00:00Z,South Eastern,All,Aged 70 - 79,8
+2021-12-09T00:00:00Z,South Eastern,All,Aged 80 & Over,14
 2021-12-09T00:00:00Z,South Eastern,All,Unknown,0
 2021-12-09T00:00:00Z,Southern,All,Aged 0 - 19,0
 2021-12-09T00:00:00Z,Southern,All,Aged 20 - 39,5
 2021-12-09T00:00:00Z,Southern,All,Aged 40 - 49,8
-2021-12-09T00:00:00Z,Southern,All,Aged 50 - 59,11
-2021-12-09T00:00:00Z,Southern,All,Aged 60 - 69,18
-2021-12-09T00:00:00Z,Southern,All,Aged 70 - 79,19
+2021-12-09T00:00:00Z,Southern,All,Aged 50 - 59,12
+2021-12-09T00:00:00Z,Southern,All,Aged 60 - 69,19
+2021-12-09T00:00:00Z,Southern,All,Aged 70 - 79,20
 2021-12-09T00:00:00Z,Southern,All,Aged 80 & Over,44
 2021-12-09T00:00:00Z,Southern,All,Unknown,0
 2021-12-09T00:00:00Z,Western,All,Aged 0 - 19,1
@@ -81165,13 +81165,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-09T00:00:00Z,Western,All,Aged 80 & Over,21
 2021-12-09T00:00:00Z,Western,All,Unknown,0
 2021-12-10T00:00:00Z,Belfast,Female,Aged 0 - 19,0
-2021-12-10T00:00:00Z,Belfast,Female,Aged 20 - 39,1
+2021-12-10T00:00:00Z,Belfast,Female,Aged 20 - 39,2
 2021-12-10T00:00:00Z,Belfast,Female,Aged 40 - 49,3
 2021-12-10T00:00:00Z,Belfast,Female,Aged 50 - 59,2
 2021-12-10T00:00:00Z,Belfast,Female,Aged 60 - 69,1
 2021-12-10T00:00:00Z,Belfast,Female,Aged 70 - 79,6
 2021-12-10T00:00:00Z,Belfast,Female,Aged 80 & Over,14
-2021-12-10T00:00:00Z,Belfast,Female,Unknown,10
+2021-12-10T00:00:00Z,Belfast,Female,Unknown,11
 2021-12-10T00:00:00Z,Northern,Female,Aged 0 - 19,0
 2021-12-10T00:00:00Z,Northern,Female,Aged 20 - 39,1
 2021-12-10T00:00:00Z,Northern,Female,Aged 40 - 49,0
@@ -81189,9 +81189,9 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-10T00:00:00Z,South Eastern,Female,Aged 80 & Over,8
 2021-12-10T00:00:00Z,South Eastern,Female,Unknown,0
 2021-12-10T00:00:00Z,Southern,Female,Aged 0 - 19,0
-2021-12-10T00:00:00Z,Southern,Female,Aged 20 - 39,5
+2021-12-10T00:00:00Z,Southern,Female,Aged 20 - 39,6
 2021-12-10T00:00:00Z,Southern,Female,Aged 40 - 49,4
-2021-12-10T00:00:00Z,Southern,Female,Aged 50 - 59,4
+2021-12-10T00:00:00Z,Southern,Female,Aged 50 - 59,5
 2021-12-10T00:00:00Z,Southern,Female,Aged 60 - 69,6
 2021-12-10T00:00:00Z,Southern,Female,Aged 70 - 79,5
 2021-12-10T00:00:00Z,Southern,Female,Aged 80 & Over,22
@@ -81205,7 +81205,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-10T00:00:00Z,Western,Female,Aged 80 & Over,7
 2021-12-10T00:00:00Z,Western,Female,Unknown,0
 2021-12-10T00:00:00Z,Belfast,Male,Aged 0 - 19,0
-2021-12-10T00:00:00Z,Belfast,Male,Aged 20 - 39,3
+2021-12-10T00:00:00Z,Belfast,Male,Aged 20 - 39,4
 2021-12-10T00:00:00Z,Belfast,Male,Aged 40 - 49,3
 2021-12-10T00:00:00Z,Belfast,Male,Aged 50 - 59,10
 2021-12-10T00:00:00Z,Belfast,Male,Aged 60 - 69,9
@@ -81225,15 +81225,15 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-10T00:00:00Z,South Eastern,Male,Aged 40 - 49,1
 2021-12-10T00:00:00Z,South Eastern,Male,Aged 50 - 59,3
 2021-12-10T00:00:00Z,South Eastern,Male,Aged 60 - 69,5
-2021-12-10T00:00:00Z,South Eastern,Male,Aged 70 - 79,3
-2021-12-10T00:00:00Z,South Eastern,Male,Aged 80 & Over,4
+2021-12-10T00:00:00Z,South Eastern,Male,Aged 70 - 79,4
+2021-12-10T00:00:00Z,South Eastern,Male,Aged 80 & Over,6
 2021-12-10T00:00:00Z,South Eastern,Male,Unknown,0
 2021-12-10T00:00:00Z,Southern,Male,Aged 0 - 19,0
 2021-12-10T00:00:00Z,Southern,Male,Aged 20 - 39,3
 2021-12-10T00:00:00Z,Southern,Male,Aged 40 - 49,3
 2021-12-10T00:00:00Z,Southern,Male,Aged 50 - 59,5
-2021-12-10T00:00:00Z,Southern,Male,Aged 60 - 69,10
-2021-12-10T00:00:00Z,Southern,Male,Aged 70 - 79,13
+2021-12-10T00:00:00Z,Southern,Male,Aged 60 - 69,11
+2021-12-10T00:00:00Z,Southern,Male,Aged 70 - 79,14
 2021-12-10T00:00:00Z,Southern,Male,Aged 80 & Over,20
 2021-12-10T00:00:00Z,Southern,Male,Unknown,0
 2021-12-10T00:00:00Z,Western,Male,Aged 0 - 19,1
@@ -81245,13 +81245,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-10T00:00:00Z,Western,Male,Aged 80 & Over,14
 2021-12-10T00:00:00Z,Western,Male,Unknown,0
 2021-12-10T00:00:00Z,Belfast,All,Aged 0 - 19,0
-2021-12-10T00:00:00Z,Belfast,All,Aged 20 - 39,4
+2021-12-10T00:00:00Z,Belfast,All,Aged 20 - 39,6
 2021-12-10T00:00:00Z,Belfast,All,Aged 40 - 49,6
 2021-12-10T00:00:00Z,Belfast,All,Aged 50 - 59,12
 2021-12-10T00:00:00Z,Belfast,All,Aged 60 - 69,10
 2021-12-10T00:00:00Z,Belfast,All,Aged 70 - 79,11
 2021-12-10T00:00:00Z,Belfast,All,Aged 80 & Over,20
-2021-12-10T00:00:00Z,Belfast,All,Unknown,15
+2021-12-10T00:00:00Z,Belfast,All,Unknown,16
 2021-12-10T00:00:00Z,Northern,All,Aged 0 - 19,0
 2021-12-10T00:00:00Z,Northern,All,Aged 20 - 39,2
 2021-12-10T00:00:00Z,Northern,All,Aged 40 - 49,2
@@ -81265,15 +81265,15 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-10T00:00:00Z,South Eastern,All,Aged 40 - 49,4
 2021-12-10T00:00:00Z,South Eastern,All,Aged 50 - 59,6
 2021-12-10T00:00:00Z,South Eastern,All,Aged 60 - 69,9
-2021-12-10T00:00:00Z,South Eastern,All,Aged 70 - 79,7
-2021-12-10T00:00:00Z,South Eastern,All,Aged 80 & Over,12
+2021-12-10T00:00:00Z,South Eastern,All,Aged 70 - 79,8
+2021-12-10T00:00:00Z,South Eastern,All,Aged 80 & Over,14
 2021-12-10T00:00:00Z,South Eastern,All,Unknown,0
 2021-12-10T00:00:00Z,Southern,All,Aged 0 - 19,0
-2021-12-10T00:00:00Z,Southern,All,Aged 20 - 39,8
+2021-12-10T00:00:00Z,Southern,All,Aged 20 - 39,9
 2021-12-10T00:00:00Z,Southern,All,Aged 40 - 49,7
-2021-12-10T00:00:00Z,Southern,All,Aged 50 - 59,9
-2021-12-10T00:00:00Z,Southern,All,Aged 60 - 69,16
-2021-12-10T00:00:00Z,Southern,All,Aged 70 - 79,18
+2021-12-10T00:00:00Z,Southern,All,Aged 50 - 59,10
+2021-12-10T00:00:00Z,Southern,All,Aged 60 - 69,17
+2021-12-10T00:00:00Z,Southern,All,Aged 70 - 79,19
 2021-12-10T00:00:00Z,Southern,All,Aged 80 & Over,42
 2021-12-10T00:00:00Z,Southern,All,Unknown,0
 2021-12-10T00:00:00Z,Western,All,Aged 0 - 19,1
@@ -81285,13 +81285,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-10T00:00:00Z,Western,All,Aged 80 & Over,21
 2021-12-10T00:00:00Z,Western,All,Unknown,0
 2021-12-11T00:00:00Z,Belfast,Female,Aged 0 - 19,0
-2021-12-11T00:00:00Z,Belfast,Female,Aged 20 - 39,1
+2021-12-11T00:00:00Z,Belfast,Female,Aged 20 - 39,3
 2021-12-11T00:00:00Z,Belfast,Female,Aged 40 - 49,2
 2021-12-11T00:00:00Z,Belfast,Female,Aged 50 - 59,2
 2021-12-11T00:00:00Z,Belfast,Female,Aged 60 - 69,1
 2021-12-11T00:00:00Z,Belfast,Female,Aged 70 - 79,6
 2021-12-11T00:00:00Z,Belfast,Female,Aged 80 & Over,13
-2021-12-11T00:00:00Z,Belfast,Female,Unknown,11
+2021-12-11T00:00:00Z,Belfast,Female,Unknown,12
 2021-12-11T00:00:00Z,Northern,Female,Aged 0 - 19,0
 2021-12-11T00:00:00Z,Northern,Female,Aged 20 - 39,2
 2021-12-11T00:00:00Z,Northern,Female,Aged 40 - 49,0
@@ -81309,12 +81309,12 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-11T00:00:00Z,South Eastern,Female,Aged 80 & Over,8
 2021-12-11T00:00:00Z,South Eastern,Female,Unknown,0
 2021-12-11T00:00:00Z,Southern,Female,Aged 0 - 19,1
-2021-12-11T00:00:00Z,Southern,Female,Aged 20 - 39,4
+2021-12-11T00:00:00Z,Southern,Female,Aged 20 - 39,5
 2021-12-11T00:00:00Z,Southern,Female,Aged 40 - 49,4
-2021-12-11T00:00:00Z,Southern,Female,Aged 50 - 59,4
+2021-12-11T00:00:00Z,Southern,Female,Aged 50 - 59,5
 2021-12-11T00:00:00Z,Southern,Female,Aged 60 - 69,7
 2021-12-11T00:00:00Z,Southern,Female,Aged 70 - 79,5
-2021-12-11T00:00:00Z,Southern,Female,Aged 80 & Over,22
+2021-12-11T00:00:00Z,Southern,Female,Aged 80 & Over,23
 2021-12-11T00:00:00Z,Southern,Female,Unknown,0
 2021-12-11T00:00:00Z,Western,Female,Aged 0 - 19,0
 2021-12-11T00:00:00Z,Western,Female,Aged 20 - 39,2
@@ -81325,7 +81325,7 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-11T00:00:00Z,Western,Female,Aged 80 & Over,7
 2021-12-11T00:00:00Z,Western,Female,Unknown,0
 2021-12-11T00:00:00Z,Belfast,Male,Aged 0 - 19,0
-2021-12-11T00:00:00Z,Belfast,Male,Aged 20 - 39,3
+2021-12-11T00:00:00Z,Belfast,Male,Aged 20 - 39,4
 2021-12-11T00:00:00Z,Belfast,Male,Aged 40 - 49,3
 2021-12-11T00:00:00Z,Belfast,Male,Aged 50 - 59,8
 2021-12-11T00:00:00Z,Belfast,Male,Aged 60 - 69,9
@@ -81345,15 +81345,15 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-11T00:00:00Z,South Eastern,Male,Aged 40 - 49,1
 2021-12-11T00:00:00Z,South Eastern,Male,Aged 50 - 59,4
 2021-12-11T00:00:00Z,South Eastern,Male,Aged 60 - 69,5
-2021-12-11T00:00:00Z,South Eastern,Male,Aged 70 - 79,3
-2021-12-11T00:00:00Z,South Eastern,Male,Aged 80 & Over,5
+2021-12-11T00:00:00Z,South Eastern,Male,Aged 70 - 79,4
+2021-12-11T00:00:00Z,South Eastern,Male,Aged 80 & Over,7
 2021-12-11T00:00:00Z,South Eastern,Male,Unknown,0
 2021-12-11T00:00:00Z,Southern,Male,Aged 0 - 19,0
 2021-12-11T00:00:00Z,Southern,Male,Aged 20 - 39,4
 2021-12-11T00:00:00Z,Southern,Male,Aged 40 - 49,3
 2021-12-11T00:00:00Z,Southern,Male,Aged 50 - 59,5
-2021-12-11T00:00:00Z,Southern,Male,Aged 60 - 69,10
-2021-12-11T00:00:00Z,Southern,Male,Aged 70 - 79,14
+2021-12-11T00:00:00Z,Southern,Male,Aged 60 - 69,11
+2021-12-11T00:00:00Z,Southern,Male,Aged 70 - 79,15
 2021-12-11T00:00:00Z,Southern,Male,Aged 80 & Over,21
 2021-12-11T00:00:00Z,Southern,Male,Unknown,0
 2021-12-11T00:00:00Z,Western,Male,Aged 0 - 19,1
@@ -81365,13 +81365,13 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-11T00:00:00Z,Western,Male,Aged 80 & Over,14
 2021-12-11T00:00:00Z,Western,Male,Unknown,0
 2021-12-11T00:00:00Z,Belfast,All,Aged 0 - 19,0
-2021-12-11T00:00:00Z,Belfast,All,Aged 20 - 39,4
+2021-12-11T00:00:00Z,Belfast,All,Aged 20 - 39,7
 2021-12-11T00:00:00Z,Belfast,All,Aged 40 - 49,5
 2021-12-11T00:00:00Z,Belfast,All,Aged 50 - 59,10
 2021-12-11T00:00:00Z,Belfast,All,Aged 60 - 69,10
 2021-12-11T00:00:00Z,Belfast,All,Aged 70 - 79,12
 2021-12-11T00:00:00Z,Belfast,All,Aged 80 & Over,19
-2021-12-11T00:00:00Z,Belfast,All,Unknown,16
+2021-12-11T00:00:00Z,Belfast,All,Unknown,17
 2021-12-11T00:00:00Z,Northern,All,Aged 0 - 19,0
 2021-12-11T00:00:00Z,Northern,All,Aged 20 - 39,3
 2021-12-11T00:00:00Z,Northern,All,Aged 40 - 49,2
@@ -81385,16 +81385,16 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-11T00:00:00Z,South Eastern,All,Aged 40 - 49,4
 2021-12-11T00:00:00Z,South Eastern,All,Aged 50 - 59,7
 2021-12-11T00:00:00Z,South Eastern,All,Aged 60 - 69,12
-2021-12-11T00:00:00Z,South Eastern,All,Aged 70 - 79,7
-2021-12-11T00:00:00Z,South Eastern,All,Aged 80 & Over,13
+2021-12-11T00:00:00Z,South Eastern,All,Aged 70 - 79,8
+2021-12-11T00:00:00Z,South Eastern,All,Aged 80 & Over,15
 2021-12-11T00:00:00Z,South Eastern,All,Unknown,0
 2021-12-11T00:00:00Z,Southern,All,Aged 0 - 19,1
-2021-12-11T00:00:00Z,Southern,All,Aged 20 - 39,8
+2021-12-11T00:00:00Z,Southern,All,Aged 20 - 39,9
 2021-12-11T00:00:00Z,Southern,All,Aged 40 - 49,7
-2021-12-11T00:00:00Z,Southern,All,Aged 50 - 59,9
-2021-12-11T00:00:00Z,Southern,All,Aged 60 - 69,17
-2021-12-11T00:00:00Z,Southern,All,Aged 70 - 79,19
-2021-12-11T00:00:00Z,Southern,All,Aged 80 & Over,43
+2021-12-11T00:00:00Z,Southern,All,Aged 50 - 59,10
+2021-12-11T00:00:00Z,Southern,All,Aged 60 - 69,18
+2021-12-11T00:00:00Z,Southern,All,Aged 70 - 79,20
+2021-12-11T00:00:00Z,Southern,All,Aged 80 & Over,44
 2021-12-11T00:00:00Z,Southern,All,Unknown,0
 2021-12-11T00:00:00Z,Western,All,Aged 0 - 19,1
 2021-12-11T00:00:00Z,Western,All,Aged 20 - 39,2
@@ -81405,12 +81405,12 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-11T00:00:00Z,Western,All,Aged 80 & Over,21
 2021-12-11T00:00:00Z,Western,All,Unknown,0
 2021-12-12T00:00:00Z,Belfast,Female,Aged 0 - 19,0
-2021-12-12T00:00:00Z,Belfast,Female,Aged 20 - 39,1
+2021-12-12T00:00:00Z,Belfast,Female,Aged 20 - 39,3
 2021-12-12T00:00:00Z,Belfast,Female,Aged 40 - 49,2
 2021-12-12T00:00:00Z,Belfast,Female,Aged 50 - 59,2
 2021-12-12T00:00:00Z,Belfast,Female,Aged 60 - 69,1
 2021-12-12T00:00:00Z,Belfast,Female,Aged 70 - 79,6
-2021-12-12T00:00:00Z,Belfast,Female,Aged 80 & Over,12
+2021-12-12T00:00:00Z,Belfast,Female,Aged 80 & Over,13
 2021-12-12T00:00:00Z,Belfast,Female,Unknown,14
 2021-12-12T00:00:00Z,Northern,Female,Aged 0 - 19,0
 2021-12-12T00:00:00Z,Northern,Female,Aged 20 - 39,2
@@ -81429,12 +81429,12 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-12T00:00:00Z,South Eastern,Female,Aged 80 & Over,8
 2021-12-12T00:00:00Z,South Eastern,Female,Unknown,0
 2021-12-12T00:00:00Z,Southern,Female,Aged 0 - 19,1
-2021-12-12T00:00:00Z,Southern,Female,Aged 20 - 39,2
+2021-12-12T00:00:00Z,Southern,Female,Aged 20 - 39,3
 2021-12-12T00:00:00Z,Southern,Female,Aged 40 - 49,4
-2021-12-12T00:00:00Z,Southern,Female,Aged 50 - 59,3
+2021-12-12T00:00:00Z,Southern,Female,Aged 50 - 59,4
 2021-12-12T00:00:00Z,Southern,Female,Aged 60 - 69,7
 2021-12-12T00:00:00Z,Southern,Female,Aged 70 - 79,5
-2021-12-12T00:00:00Z,Southern,Female,Aged 80 & Over,22
+2021-12-12T00:00:00Z,Southern,Female,Aged 80 & Over,23
 2021-12-12T00:00:00Z,Southern,Female,Unknown,0
 2021-12-12T00:00:00Z,Western,Female,Aged 0 - 19,0
 2021-12-12T00:00:00Z,Western,Female,Aged 20 - 39,3
@@ -81445,9 +81445,9 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-12T00:00:00Z,Western,Female,Aged 80 & Over,8
 2021-12-12T00:00:00Z,Western,Female,Unknown,0
 2021-12-12T00:00:00Z,Belfast,Male,Aged 0 - 19,0
-2021-12-12T00:00:00Z,Belfast,Male,Aged 20 - 39,3
+2021-12-12T00:00:00Z,Belfast,Male,Aged 20 - 39,4
 2021-12-12T00:00:00Z,Belfast,Male,Aged 40 - 49,2
-2021-12-12T00:00:00Z,Belfast,Male,Aged 50 - 59,8
+2021-12-12T00:00:00Z,Belfast,Male,Aged 50 - 59,9
 2021-12-12T00:00:00Z,Belfast,Male,Aged 60 - 69,9
 2021-12-12T00:00:00Z,Belfast,Male,Aged 70 - 79,6
 2021-12-12T00:00:00Z,Belfast,Male,Aged 80 & Over,4
@@ -81465,16 +81465,16 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-12T00:00:00Z,South Eastern,Male,Aged 40 - 49,1
 2021-12-12T00:00:00Z,South Eastern,Male,Aged 50 - 59,4
 2021-12-12T00:00:00Z,South Eastern,Male,Aged 60 - 69,6
-2021-12-12T00:00:00Z,South Eastern,Male,Aged 70 - 79,2
-2021-12-12T00:00:00Z,South Eastern,Male,Aged 80 & Over,4
+2021-12-12T00:00:00Z,South Eastern,Male,Aged 70 - 79,3
+2021-12-12T00:00:00Z,South Eastern,Male,Aged 80 & Over,6
 2021-12-12T00:00:00Z,South Eastern,Male,Unknown,0
 2021-12-12T00:00:00Z,Southern,Male,Aged 0 - 19,0
 2021-12-12T00:00:00Z,Southern,Male,Aged 20 - 39,3
 2021-12-12T00:00:00Z,Southern,Male,Aged 40 - 49,4
 2021-12-12T00:00:00Z,Southern,Male,Aged 50 - 59,6
-2021-12-12T00:00:00Z,Southern,Male,Aged 60 - 69,9
-2021-12-12T00:00:00Z,Southern,Male,Aged 70 - 79,15
-2021-12-12T00:00:00Z,Southern,Male,Aged 80 & Over,21
+2021-12-12T00:00:00Z,Southern,Male,Aged 60 - 69,10
+2021-12-12T00:00:00Z,Southern,Male,Aged 70 - 79,16
+2021-12-12T00:00:00Z,Southern,Male,Aged 80 & Over,22
 2021-12-12T00:00:00Z,Southern,Male,Unknown,0
 2021-12-12T00:00:00Z,Western,Male,Aged 0 - 19,1
 2021-12-12T00:00:00Z,Western,Male,Aged 20 - 39,0
@@ -81485,12 +81485,12 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-12T00:00:00Z,Western,Male,Aged 80 & Over,14
 2021-12-12T00:00:00Z,Western,Male,Unknown,0
 2021-12-12T00:00:00Z,Belfast,All,Aged 0 - 19,0
-2021-12-12T00:00:00Z,Belfast,All,Aged 20 - 39,4
+2021-12-12T00:00:00Z,Belfast,All,Aged 20 - 39,7
 2021-12-12T00:00:00Z,Belfast,All,Aged 40 - 49,4
-2021-12-12T00:00:00Z,Belfast,All,Aged 50 - 59,10
+2021-12-12T00:00:00Z,Belfast,All,Aged 50 - 59,11
 2021-12-12T00:00:00Z,Belfast,All,Aged 60 - 69,10
 2021-12-12T00:00:00Z,Belfast,All,Aged 70 - 79,12
-2021-12-12T00:00:00Z,Belfast,All,Aged 80 & Over,16
+2021-12-12T00:00:00Z,Belfast,All,Aged 80 & Over,17
 2021-12-12T00:00:00Z,Belfast,All,Unknown,19
 2021-12-12T00:00:00Z,Northern,All,Aged 0 - 19,0
 2021-12-12T00:00:00Z,Northern,All,Aged 20 - 39,3
@@ -81505,16 +81505,16 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-12T00:00:00Z,South Eastern,All,Aged 40 - 49,4
 2021-12-12T00:00:00Z,South Eastern,All,Aged 50 - 59,7
 2021-12-12T00:00:00Z,South Eastern,All,Aged 60 - 69,14
-2021-12-12T00:00:00Z,South Eastern,All,Aged 70 - 79,7
-2021-12-12T00:00:00Z,South Eastern,All,Aged 80 & Over,12
+2021-12-12T00:00:00Z,South Eastern,All,Aged 70 - 79,8
+2021-12-12T00:00:00Z,South Eastern,All,Aged 80 & Over,14
 2021-12-12T00:00:00Z,South Eastern,All,Unknown,0
 2021-12-12T00:00:00Z,Southern,All,Aged 0 - 19,1
-2021-12-12T00:00:00Z,Southern,All,Aged 20 - 39,5
+2021-12-12T00:00:00Z,Southern,All,Aged 20 - 39,6
 2021-12-12T00:00:00Z,Southern,All,Aged 40 - 49,8
-2021-12-12T00:00:00Z,Southern,All,Aged 50 - 59,9
-2021-12-12T00:00:00Z,Southern,All,Aged 60 - 69,16
-2021-12-12T00:00:00Z,Southern,All,Aged 70 - 79,20
-2021-12-12T00:00:00Z,Southern,All,Aged 80 & Over,43
+2021-12-12T00:00:00Z,Southern,All,Aged 50 - 59,10
+2021-12-12T00:00:00Z,Southern,All,Aged 60 - 69,17
+2021-12-12T00:00:00Z,Southern,All,Aged 70 - 79,21
+2021-12-12T00:00:00Z,Southern,All,Aged 80 & Over,45
 2021-12-12T00:00:00Z,Southern,All,Unknown,0
 2021-12-12T00:00:00Z,Western,All,Aged 0 - 19,1
 2021-12-12T00:00:00Z,Western,All,Aged 20 - 39,3
@@ -81525,36 +81525,36 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-12T00:00:00Z,Western,All,Aged 80 & Over,22
 2021-12-12T00:00:00Z,Western,All,Unknown,0
 2021-12-13T00:00:00Z,Belfast,Female,Aged 0 - 19,0
-2021-12-13T00:00:00Z,Belfast,Female,Aged 20 - 39,1
+2021-12-13T00:00:00Z,Belfast,Female,Aged 20 - 39,3
 2021-12-13T00:00:00Z,Belfast,Female,Aged 40 - 49,2
 2021-12-13T00:00:00Z,Belfast,Female,Aged 50 - 59,2
 2021-12-13T00:00:00Z,Belfast,Female,Aged 60 - 69,1
 2021-12-13T00:00:00Z,Belfast,Female,Aged 70 - 79,5
-2021-12-13T00:00:00Z,Belfast,Female,Aged 80 & Over,12
-2021-12-13T00:00:00Z,Belfast,Female,Unknown,15
+2021-12-13T00:00:00Z,Belfast,Female,Aged 80 & Over,14
+2021-12-13T00:00:00Z,Belfast,Female,Unknown,14
 2021-12-13T00:00:00Z,Northern,Female,Aged 0 - 19,0
 2021-12-13T00:00:00Z,Northern,Female,Aged 20 - 39,2
 2021-12-13T00:00:00Z,Northern,Female,Aged 40 - 49,0
 2021-12-13T00:00:00Z,Northern,Female,Aged 50 - 59,1
 2021-12-13T00:00:00Z,Northern,Female,Aged 60 - 69,1
-2021-12-13T00:00:00Z,Northern,Female,Aged 70 - 79,6
+2021-12-13T00:00:00Z,Northern,Female,Aged 70 - 79,7
 2021-12-13T00:00:00Z,Northern,Female,Aged 80 & Over,10
 2021-12-13T00:00:00Z,Northern,Female,Unknown,0
 2021-12-13T00:00:00Z,South Eastern,Female,Aged 0 - 19,1
 2021-12-13T00:00:00Z,South Eastern,Female,Aged 20 - 39,1
 2021-12-13T00:00:00Z,South Eastern,Female,Aged 40 - 49,3
-2021-12-13T00:00:00Z,South Eastern,Female,Aged 50 - 59,3
+2021-12-13T00:00:00Z,South Eastern,Female,Aged 50 - 59,4
 2021-12-13T00:00:00Z,South Eastern,Female,Aged 60 - 69,7
 2021-12-13T00:00:00Z,South Eastern,Female,Aged 70 - 79,4
 2021-12-13T00:00:00Z,South Eastern,Female,Aged 80 & Over,8
 2021-12-13T00:00:00Z,South Eastern,Female,Unknown,0
-2021-12-13T00:00:00Z,Southern,Female,Aged 0 - 19,1
-2021-12-13T00:00:00Z,Southern,Female,Aged 20 - 39,2
+2021-12-13T00:00:00Z,Southern,Female,Aged 0 - 19,0
+2021-12-13T00:00:00Z,Southern,Female,Aged 20 - 39,3
 2021-12-13T00:00:00Z,Southern,Female,Aged 40 - 49,4
-2021-12-13T00:00:00Z,Southern,Female,Aged 50 - 59,3
+2021-12-13T00:00:00Z,Southern,Female,Aged 50 - 59,5
 2021-12-13T00:00:00Z,Southern,Female,Aged 60 - 69,9
-2021-12-13T00:00:00Z,Southern,Female,Aged 70 - 79,5
-2021-12-13T00:00:00Z,Southern,Female,Aged 80 & Over,20
+2021-12-13T00:00:00Z,Southern,Female,Aged 70 - 79,6
+2021-12-13T00:00:00Z,Southern,Female,Aged 80 & Over,21
 2021-12-13T00:00:00Z,Southern,Female,Unknown,0
 2021-12-13T00:00:00Z,Western,Female,Aged 0 - 19,0
 2021-12-13T00:00:00Z,Western,Female,Aged 20 - 39,2
@@ -81569,32 +81569,32 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-13T00:00:00Z,Belfast,Male,Aged 40 - 49,2
 2021-12-13T00:00:00Z,Belfast,Male,Aged 50 - 59,8
 2021-12-13T00:00:00Z,Belfast,Male,Aged 60 - 69,8
-2021-12-13T00:00:00Z,Belfast,Male,Aged 70 - 79,6
+2021-12-13T00:00:00Z,Belfast,Male,Aged 70 - 79,7
 2021-12-13T00:00:00Z,Belfast,Male,Aged 80 & Over,4
 2021-12-13T00:00:00Z,Belfast,Male,Unknown,5
 2021-12-13T00:00:00Z,Northern,Male,Aged 0 - 19,0
 2021-12-13T00:00:00Z,Northern,Male,Aged 20 - 39,1
 2021-12-13T00:00:00Z,Northern,Male,Aged 40 - 49,2
-2021-12-13T00:00:00Z,Northern,Male,Aged 50 - 59,5
+2021-12-13T00:00:00Z,Northern,Male,Aged 50 - 59,4
 2021-12-13T00:00:00Z,Northern,Male,Aged 60 - 69,5
 2021-12-13T00:00:00Z,Northern,Male,Aged 70 - 79,9
 2021-12-13T00:00:00Z,Northern,Male,Aged 80 & Over,9
 2021-12-13T00:00:00Z,Northern,Male,Unknown,0
 2021-12-13T00:00:00Z,South Eastern,Male,Aged 0 - 19,1
-2021-12-13T00:00:00Z,South Eastern,Male,Aged 20 - 39,2
-2021-12-13T00:00:00Z,South Eastern,Male,Aged 40 - 49,2
+2021-12-13T00:00:00Z,South Eastern,Male,Aged 20 - 39,3
+2021-12-13T00:00:00Z,South Eastern,Male,Aged 40 - 49,3
 2021-12-13T00:00:00Z,South Eastern,Male,Aged 50 - 59,4
 2021-12-13T00:00:00Z,South Eastern,Male,Aged 60 - 69,6
-2021-12-13T00:00:00Z,South Eastern,Male,Aged 70 - 79,2
-2021-12-13T00:00:00Z,South Eastern,Male,Aged 80 & Over,4
+2021-12-13T00:00:00Z,South Eastern,Male,Aged 70 - 79,4
+2021-12-13T00:00:00Z,South Eastern,Male,Aged 80 & Over,6
 2021-12-13T00:00:00Z,South Eastern,Male,Unknown,0
 2021-12-13T00:00:00Z,Southern,Male,Aged 0 - 19,0
-2021-12-13T00:00:00Z,Southern,Male,Aged 20 - 39,3
+2021-12-13T00:00:00Z,Southern,Male,Aged 20 - 39,4
 2021-12-13T00:00:00Z,Southern,Male,Aged 40 - 49,4
 2021-12-13T00:00:00Z,Southern,Male,Aged 50 - 59,6
 2021-12-13T00:00:00Z,Southern,Male,Aged 60 - 69,10
 2021-12-13T00:00:00Z,Southern,Male,Aged 70 - 79,16
-2021-12-13T00:00:00Z,Southern,Male,Aged 80 & Over,20
+2021-12-13T00:00:00Z,Southern,Male,Aged 80 & Over,19
 2021-12-13T00:00:00Z,Southern,Male,Unknown,0
 2021-12-13T00:00:00Z,Western,Male,Aged 0 - 19,1
 2021-12-13T00:00:00Z,Western,Male,Aged 20 - 39,0
@@ -81605,35 +81605,35 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-13T00:00:00Z,Western,Male,Aged 80 & Over,14
 2021-12-13T00:00:00Z,Western,Male,Unknown,0
 2021-12-13T00:00:00Z,Belfast,All,Aged 0 - 19,0
-2021-12-13T00:00:00Z,Belfast,All,Aged 20 - 39,4
+2021-12-13T00:00:00Z,Belfast,All,Aged 20 - 39,6
 2021-12-13T00:00:00Z,Belfast,All,Aged 40 - 49,4
 2021-12-13T00:00:00Z,Belfast,All,Aged 50 - 59,10
 2021-12-13T00:00:00Z,Belfast,All,Aged 60 - 69,9
-2021-12-13T00:00:00Z,Belfast,All,Aged 70 - 79,11
-2021-12-13T00:00:00Z,Belfast,All,Aged 80 & Over,16
-2021-12-13T00:00:00Z,Belfast,All,Unknown,20
+2021-12-13T00:00:00Z,Belfast,All,Aged 70 - 79,12
+2021-12-13T00:00:00Z,Belfast,All,Aged 80 & Over,18
+2021-12-13T00:00:00Z,Belfast,All,Unknown,19
 2021-12-13T00:00:00Z,Northern,All,Aged 0 - 19,0
 2021-12-13T00:00:00Z,Northern,All,Aged 20 - 39,3
 2021-12-13T00:00:00Z,Northern,All,Aged 40 - 49,2
-2021-12-13T00:00:00Z,Northern,All,Aged 50 - 59,6
+2021-12-13T00:00:00Z,Northern,All,Aged 50 - 59,5
 2021-12-13T00:00:00Z,Northern,All,Aged 60 - 69,6
-2021-12-13T00:00:00Z,Northern,All,Aged 70 - 79,15
+2021-12-13T00:00:00Z,Northern,All,Aged 70 - 79,16
 2021-12-13T00:00:00Z,Northern,All,Aged 80 & Over,19
 2021-12-13T00:00:00Z,Northern,All,Unknown,0
 2021-12-13T00:00:00Z,South Eastern,All,Aged 0 - 19,2
-2021-12-13T00:00:00Z,South Eastern,All,Aged 20 - 39,3
-2021-12-13T00:00:00Z,South Eastern,All,Aged 40 - 49,5
-2021-12-13T00:00:00Z,South Eastern,All,Aged 50 - 59,7
+2021-12-13T00:00:00Z,South Eastern,All,Aged 20 - 39,4
+2021-12-13T00:00:00Z,South Eastern,All,Aged 40 - 49,6
+2021-12-13T00:00:00Z,South Eastern,All,Aged 50 - 59,8
 2021-12-13T00:00:00Z,South Eastern,All,Aged 60 - 69,13
-2021-12-13T00:00:00Z,South Eastern,All,Aged 70 - 79,6
-2021-12-13T00:00:00Z,South Eastern,All,Aged 80 & Over,12
+2021-12-13T00:00:00Z,South Eastern,All,Aged 70 - 79,8
+2021-12-13T00:00:00Z,South Eastern,All,Aged 80 & Over,14
 2021-12-13T00:00:00Z,South Eastern,All,Unknown,0
-2021-12-13T00:00:00Z,Southern,All,Aged 0 - 19,1
-2021-12-13T00:00:00Z,Southern,All,Aged 20 - 39,5
+2021-12-13T00:00:00Z,Southern,All,Aged 0 - 19,0
+2021-12-13T00:00:00Z,Southern,All,Aged 20 - 39,7
 2021-12-13T00:00:00Z,Southern,All,Aged 40 - 49,8
-2021-12-13T00:00:00Z,Southern,All,Aged 50 - 59,9
+2021-12-13T00:00:00Z,Southern,All,Aged 50 - 59,11
 2021-12-13T00:00:00Z,Southern,All,Aged 60 - 69,19
-2021-12-13T00:00:00Z,Southern,All,Aged 70 - 79,21
+2021-12-13T00:00:00Z,Southern,All,Aged 70 - 79,22
 2021-12-13T00:00:00Z,Southern,All,Aged 80 & Over,40
 2021-12-13T00:00:00Z,Southern,All,Unknown,0
 2021-12-13T00:00:00Z,Western,All,Aged 0 - 19,1
@@ -81644,3 +81644,123 @@ date,hsc_trust,gender,age_band,covid_patients
 2021-12-13T00:00:00Z,Western,All,Aged 70 - 79,7
 2021-12-13T00:00:00Z,Western,All,Aged 80 & Over,21
 2021-12-13T00:00:00Z,Western,All,Unknown,0
+2021-12-14T00:00:00Z,Belfast,Female,Aged 0 - 19,0
+2021-12-14T00:00:00Z,Belfast,Female,Aged 20 - 39,4
+2021-12-14T00:00:00Z,Belfast,Female,Aged 40 - 49,2
+2021-12-14T00:00:00Z,Belfast,Female,Aged 50 - 59,2
+2021-12-14T00:00:00Z,Belfast,Female,Aged 60 - 69,1
+2021-12-14T00:00:00Z,Belfast,Female,Aged 70 - 79,3
+2021-12-14T00:00:00Z,Belfast,Female,Aged 80 & Over,14
+2021-12-14T00:00:00Z,Belfast,Female,Unknown,14
+2021-12-14T00:00:00Z,Northern,Female,Aged 0 - 19,0
+2021-12-14T00:00:00Z,Northern,Female,Aged 20 - 39,3
+2021-12-14T00:00:00Z,Northern,Female,Aged 40 - 49,0
+2021-12-14T00:00:00Z,Northern,Female,Aged 50 - 59,1
+2021-12-14T00:00:00Z,Northern,Female,Aged 60 - 69,1
+2021-12-14T00:00:00Z,Northern,Female,Aged 70 - 79,6
+2021-12-14T00:00:00Z,Northern,Female,Aged 80 & Over,10
+2021-12-14T00:00:00Z,Northern,Female,Unknown,0
+2021-12-14T00:00:00Z,South Eastern,Female,Aged 0 - 19,1
+2021-12-14T00:00:00Z,South Eastern,Female,Aged 20 - 39,1
+2021-12-14T00:00:00Z,South Eastern,Female,Aged 40 - 49,2
+2021-12-14T00:00:00Z,South Eastern,Female,Aged 50 - 59,4
+2021-12-14T00:00:00Z,South Eastern,Female,Aged 60 - 69,6
+2021-12-14T00:00:00Z,South Eastern,Female,Aged 70 - 79,4
+2021-12-14T00:00:00Z,South Eastern,Female,Aged 80 & Over,7
+2021-12-14T00:00:00Z,South Eastern,Female,Unknown,0
+2021-12-14T00:00:00Z,Southern,Female,Aged 0 - 19,0
+2021-12-14T00:00:00Z,Southern,Female,Aged 20 - 39,3
+2021-12-14T00:00:00Z,Southern,Female,Aged 40 - 49,5
+2021-12-14T00:00:00Z,Southern,Female,Aged 50 - 59,3
+2021-12-14T00:00:00Z,Southern,Female,Aged 60 - 69,10
+2021-12-14T00:00:00Z,Southern,Female,Aged 70 - 79,6
+2021-12-14T00:00:00Z,Southern,Female,Aged 80 & Over,18
+2021-12-14T00:00:00Z,Southern,Female,Unknown,0
+2021-12-14T00:00:00Z,Western,Female,Aged 0 - 19,0
+2021-12-14T00:00:00Z,Western,Female,Aged 20 - 39,3
+2021-12-14T00:00:00Z,Western,Female,Aged 40 - 49,0
+2021-12-14T00:00:00Z,Western,Female,Aged 50 - 59,0
+2021-12-14T00:00:00Z,Western,Female,Aged 60 - 69,4
+2021-12-14T00:00:00Z,Western,Female,Aged 70 - 79,5
+2021-12-14T00:00:00Z,Western,Female,Aged 80 & Over,6
+2021-12-14T00:00:00Z,Western,Female,Unknown,0
+2021-12-14T00:00:00Z,Belfast,Male,Aged 0 - 19,0
+2021-12-14T00:00:00Z,Belfast,Male,Aged 20 - 39,2
+2021-12-14T00:00:00Z,Belfast,Male,Aged 40 - 49,2
+2021-12-14T00:00:00Z,Belfast,Male,Aged 50 - 59,7
+2021-12-14T00:00:00Z,Belfast,Male,Aged 60 - 69,8
+2021-12-14T00:00:00Z,Belfast,Male,Aged 70 - 79,5
+2021-12-14T00:00:00Z,Belfast,Male,Aged 80 & Over,3
+2021-12-14T00:00:00Z,Belfast,Male,Unknown,5
+2021-12-14T00:00:00Z,Northern,Male,Aged 0 - 19,0
+2021-12-14T00:00:00Z,Northern,Male,Aged 20 - 39,1
+2021-12-14T00:00:00Z,Northern,Male,Aged 40 - 49,1
+2021-12-14T00:00:00Z,Northern,Male,Aged 50 - 59,4
+2021-12-14T00:00:00Z,Northern,Male,Aged 60 - 69,3
+2021-12-14T00:00:00Z,Northern,Male,Aged 70 - 79,8
+2021-12-14T00:00:00Z,Northern,Male,Aged 80 & Over,8
+2021-12-14T00:00:00Z,Northern,Male,Unknown,0
+2021-12-14T00:00:00Z,South Eastern,Male,Aged 0 - 19,1
+2021-12-14T00:00:00Z,South Eastern,Male,Aged 20 - 39,1
+2021-12-14T00:00:00Z,South Eastern,Male,Aged 40 - 49,3
+2021-12-14T00:00:00Z,South Eastern,Male,Aged 50 - 59,4
+2021-12-14T00:00:00Z,South Eastern,Male,Aged 60 - 69,6
+2021-12-14T00:00:00Z,South Eastern,Male,Aged 70 - 79,4
+2021-12-14T00:00:00Z,South Eastern,Male,Aged 80 & Over,5
+2021-12-14T00:00:00Z,South Eastern,Male,Unknown,0
+2021-12-14T00:00:00Z,Southern,Male,Aged 0 - 19,0
+2021-12-14T00:00:00Z,Southern,Male,Aged 20 - 39,4
+2021-12-14T00:00:00Z,Southern,Male,Aged 40 - 49,4
+2021-12-14T00:00:00Z,Southern,Male,Aged 50 - 59,6
+2021-12-14T00:00:00Z,Southern,Male,Aged 60 - 69,9
+2021-12-14T00:00:00Z,Southern,Male,Aged 70 - 79,14
+2021-12-14T00:00:00Z,Southern,Male,Aged 80 & Over,19
+2021-12-14T00:00:00Z,Southern,Male,Unknown,0
+2021-12-14T00:00:00Z,Western,Male,Aged 0 - 19,1
+2021-12-14T00:00:00Z,Western,Male,Aged 20 - 39,0
+2021-12-14T00:00:00Z,Western,Male,Aged 40 - 49,4
+2021-12-14T00:00:00Z,Western,Male,Aged 50 - 59,4
+2021-12-14T00:00:00Z,Western,Male,Aged 60 - 69,4
+2021-12-14T00:00:00Z,Western,Male,Aged 70 - 79,3
+2021-12-14T00:00:00Z,Western,Male,Aged 80 & Over,13
+2021-12-14T00:00:00Z,Western,Male,Unknown,0
+2021-12-14T00:00:00Z,Belfast,All,Aged 0 - 19,0
+2021-12-14T00:00:00Z,Belfast,All,Aged 20 - 39,6
+2021-12-14T00:00:00Z,Belfast,All,Aged 40 - 49,4
+2021-12-14T00:00:00Z,Belfast,All,Aged 50 - 59,9
+2021-12-14T00:00:00Z,Belfast,All,Aged 60 - 69,9
+2021-12-14T00:00:00Z,Belfast,All,Aged 70 - 79,8
+2021-12-14T00:00:00Z,Belfast,All,Aged 80 & Over,17
+2021-12-14T00:00:00Z,Belfast,All,Unknown,19
+2021-12-14T00:00:00Z,Northern,All,Aged 0 - 19,0
+2021-12-14T00:00:00Z,Northern,All,Aged 20 - 39,4
+2021-12-14T00:00:00Z,Northern,All,Aged 40 - 49,1
+2021-12-14T00:00:00Z,Northern,All,Aged 50 - 59,5
+2021-12-14T00:00:00Z,Northern,All,Aged 60 - 69,4
+2021-12-14T00:00:00Z,Northern,All,Aged 70 - 79,14
+2021-12-14T00:00:00Z,Northern,All,Aged 80 & Over,18
+2021-12-14T00:00:00Z,Northern,All,Unknown,0
+2021-12-14T00:00:00Z,South Eastern,All,Aged 0 - 19,2
+2021-12-14T00:00:00Z,South Eastern,All,Aged 20 - 39,2
+2021-12-14T00:00:00Z,South Eastern,All,Aged 40 - 49,5
+2021-12-14T00:00:00Z,South Eastern,All,Aged 50 - 59,8
+2021-12-14T00:00:00Z,South Eastern,All,Aged 60 - 69,12
+2021-12-14T00:00:00Z,South Eastern,All,Aged 70 - 79,8
+2021-12-14T00:00:00Z,South Eastern,All,Aged 80 & Over,12
+2021-12-14T00:00:00Z,South Eastern,All,Unknown,0
+2021-12-14T00:00:00Z,Southern,All,Aged 0 - 19,0
+2021-12-14T00:00:00Z,Southern,All,Aged 20 - 39,7
+2021-12-14T00:00:00Z,Southern,All,Aged 40 - 49,9
+2021-12-14T00:00:00Z,Southern,All,Aged 50 - 59,9
+2021-12-14T00:00:00Z,Southern,All,Aged 60 - 69,19
+2021-12-14T00:00:00Z,Southern,All,Aged 70 - 79,20
+2021-12-14T00:00:00Z,Southern,All,Aged 80 & Over,37
+2021-12-14T00:00:00Z,Southern,All,Unknown,0
+2021-12-14T00:00:00Z,Western,All,Aged 0 - 19,1
+2021-12-14T00:00:00Z,Western,All,Aged 20 - 39,3
+2021-12-14T00:00:00Z,Western,All,Aged 40 - 49,4
+2021-12-14T00:00:00Z,Western,All,Aged 50 - 59,4
+2021-12-14T00:00:00Z,Western,All,Aged 60 - 69,8
+2021-12-14T00:00:00Z,Western,All,Aged 70 - 79,8
+2021-12-14T00:00:00Z,Western,All,Aged 80 & Over,19
+2021-12-14T00:00:00Z,Western,All,Unknown,0
