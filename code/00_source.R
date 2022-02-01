@@ -23,9 +23,9 @@ national_df_collector <- function(xls_file){
   test_df <- read_excel(xls_file, sheet = "Summary Tests") %>%
     clean_names() %>%
     select(date = sample_date,
-           cases = individuals_tested_positive,
-           tests = all_individuals_tested,
-           cases_per_100k = positivity_rate_per_100k_pop
+           cases = total_cases,
+           tests = total_tests,
+           cases_per_100k = infections_rate_per_100k_pop
     ) %>%
     pad('day') %>%
     mutate_if(is.numeric, funs(ifelse(is.na(.), 0, .)))
@@ -106,10 +106,10 @@ local_df_collector = function(xls_file){
   
   case_df <- read_excel(xls_file, sheet = "Tests") %>%
                 clean_names() %>%
-                select(date = date_of_specimen,
+                select(date = sample_date,
                      area = lgd2014name,
-                     cases = individ_with_positive_lab_test,
-                     tests = individ_with_lab_test,
+                     cases = total_cases,
+                     tests = total_tests,
                 ) %>%
                 pad(group="area") %>%
                 mutate_if(is.numeric, funs(ifelse(is.na(.), 0, .)))
