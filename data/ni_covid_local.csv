@@ -353,7 +353,7 @@ date,area,cases,tests,deaths
 2021-01-16,Antrim and Newtownabbey,46,366,4
 2021-01-17,Antrim and Newtownabbey,39,320,2
 2021-01-18,Antrim and Newtownabbey,59,605,3
-2021-01-19,Antrim and Newtownabbey,63,950,2
+2021-01-19,Antrim and Newtownabbey,62,950,2
 2021-01-20,Antrim and Newtownabbey,66,701,2
 2021-01-21,Antrim and Newtownabbey,50,617,0
 2021-01-22,Antrim and Newtownabbey,42,489,2
@@ -751,9 +751,10 @@ date,area,cases,tests,deaths
 2022-02-18,Antrim and Newtownabbey,173,1327,1
 2022-02-19,Antrim and Newtownabbey,153,1074,0
 2022-02-20,Antrim and Newtownabbey,231,1541,0
-2022-02-21,Antrim and Newtownabbey,269,1870,1
-2022-02-22,Antrim and Newtownabbey,235,1607,0
-2022-02-23,Antrim and Newtownabbey,181,1425,0
+2022-02-21,Antrim and Newtownabbey,269,1871,1
+2022-02-22,Antrim and Newtownabbey,237,1643,0
+2022-02-23,Antrim and Newtownabbey,215,1669,0
+2022-02-24,Antrim and Newtownabbey,146,1336,0
 2020-01-08,Ards and North Down,0,1,0
 2020-01-09,Ards and North Down,0,0,0
 2020-01-10,Ards and North Down,0,0,0
@@ -1320,7 +1321,7 @@ date,area,cases,tests,deaths
 2021-07-24,Ards and North Down,82,666,0
 2021-07-25,Ards and North Down,71,825,0
 2021-07-26,Ards and North Down,83,1540,0
-2021-07-27,Ards and North Down,75,1503,0
+2021-07-27,Ards and North Down,76,1503,0
 2021-07-28,Ards and North Down,82,1569,0
 2021-07-29,Ards and North Down,91,1588,0
 2021-07-30,Ards and North Down,56,866,0
@@ -1452,7 +1453,7 @@ date,area,cases,tests,deaths
 2021-12-03,Ards and North Down,131,2397,0
 2021-12-04,Ards and North Down,121,1999,0
 2021-12-05,Ards and North Down,147,2158,0
-2021-12-06,Ards and North Down,176,2942,0
+2021-12-06,Ards and North Down,175,2942,0
 2021-12-07,Ards and North Down,177,2652,1
 2021-12-08,Ards and North Down,209,3059,0
 2021-12-09,Ards and North Down,163,3030,0
@@ -1527,11 +1528,12 @@ date,area,cases,tests,deaths
 2022-02-16,Ards and North Down,303,2156,1
 2022-02-17,Ards and North Down,216,2127,0
 2022-02-18,Ards and North Down,205,1632,0
-2022-02-19,Ards and North Down,178,1428,0
+2022-02-19,Ards and North Down,177,1428,0
 2022-02-20,Ards and North Down,245,1790,0
 2022-02-21,Ards and North Down,280,2436,1
-2022-02-22,Ards and North Down,292,2258,1
-2022-02-23,Ards and North Down,205,1889,0
+2022-02-22,Ards and North Down,295,2304,1
+2022-02-23,Ards and North Down,252,2133,0
+2022-02-24,Ards and North Down,187,1891,0
 2020-01-05,"Armagh City, Banbridge and Craigavon",0,1,0
 2020-01-06,"Armagh City, Banbridge and Craigavon",0,2,0
 2020-01-07,"Armagh City, Banbridge and Craigavon",0,1,0
@@ -2307,12 +2309,13 @@ date,area,cases,tests,deaths
 2022-02-15,"Armagh City, Banbridge and Craigavon",292,2463,0
 2022-02-16,"Armagh City, Banbridge and Craigavon",292,2480,1
 2022-02-17,"Armagh City, Banbridge and Craigavon",262,1997,1
-2022-02-18,"Armagh City, Banbridge and Craigavon",229,1759,1
+2022-02-18,"Armagh City, Banbridge and Craigavon",230,1760,1
 2022-02-19,"Armagh City, Banbridge and Craigavon",202,1386,1
 2022-02-20,"Armagh City, Banbridge and Craigavon",225,1759,1
-2022-02-21,"Armagh City, Banbridge and Craigavon",247,2286,0
-2022-02-22,"Armagh City, Banbridge and Craigavon",258,2123,1
-2022-02-23,"Armagh City, Banbridge and Craigavon",230,1782,0
+2022-02-21,"Armagh City, Banbridge and Craigavon",248,2294,0
+2022-02-22,"Armagh City, Banbridge and Craigavon",259,2139,1
+2022-02-23,"Armagh City, Banbridge and Craigavon",272,2156,0
+2022-02-24,"Armagh City, Banbridge and Craigavon",171,1336,0
 2020-01-12,Belfast,0,1,0
 2020-01-13,Belfast,0,0,0
 2020-01-14,Belfast,0,0,0
@@ -2685,7 +2688,7 @@ date,area,cases,tests,deaths
 2021-01-15,Belfast,122,1090,2
 2021-01-16,Belfast,89,817,2
 2021-01-17,Belfast,84,968,1
-2021-01-18,Belfast,141,1940,5
+2021-01-18,Belfast,142,1940,5
 2021-01-19,Belfast,131,1941,3
 2021-01-20,Belfast,109,2192,0
 2021-01-21,Belfast,121,1638,0
@@ -3084,9 +3087,10 @@ date,area,cases,tests,deaths
 2022-02-18,Belfast,387,2588,0
 2022-02-19,Belfast,334,2496,0
 2022-02-20,Belfast,472,2936,2
-2022-02-21,Belfast,574,3857,1
-2022-02-22,Belfast,508,3572,1
-2022-02-23,Belfast,372,3110,1
+2022-02-21,Belfast,574,3860,1
+2022-02-22,Belfast,510,3650,1
+2022-02-23,Belfast,426,3650,1
+2022-02-24,Belfast,346,2603,0
 2020-01-07,Causeway Coast and Glens,0,1,0
 2020-01-08,Causeway Coast and Glens,0,0,0
 2020-01-09,Causeway Coast and Glens,0,0,0
@@ -3806,7 +3810,7 @@ date,area,cases,tests,deaths
 2021-12-23,Causeway Coast and Glens,267,2981,1
 2021-12-24,Causeway Coast and Glens,233,2181,0
 2021-12-25,Causeway Coast and Glens,175,1384,0
-2021-12-26,Causeway Coast and Glens,194,2239,0
+2021-12-26,Causeway Coast and Glens,193,2239,0
 2021-12-27,Causeway Coast and Glens,442,2794,0
 2021-12-28,Causeway Coast and Glens,570,3435,0
 2021-12-29,Causeway Coast and Glens,670,3663,1
@@ -3854,7 +3858,7 @@ date,area,cases,tests,deaths
 2022-02-09,Causeway Coast and Glens,237,1846,1
 2022-02-10,Causeway Coast and Glens,162,1424,0
 2022-02-11,Causeway Coast and Glens,160,1226,1
-2022-02-12,Causeway Coast and Glens,139,1151,0
+2022-02-12,Causeway Coast and Glens,139,1152,0
 2022-02-13,Causeway Coast and Glens,174,1323,0
 2022-02-14,Causeway Coast and Glens,198,1459,0
 2022-02-15,Causeway Coast and Glens,181,1474,0
@@ -3863,9 +3867,10 @@ date,area,cases,tests,deaths
 2022-02-18,Causeway Coast and Glens,147,938,1
 2022-02-19,Causeway Coast and Glens,109,763,0
 2022-02-20,Causeway Coast and Glens,191,1199,0
-2022-02-21,Causeway Coast and Glens,189,1492,0
-2022-02-22,Causeway Coast and Glens,201,1359,0
-2022-02-23,Causeway Coast and Glens,137,1032,0
+2022-02-21,Causeway Coast and Glens,189,1493,0
+2022-02-22,Causeway Coast and Glens,207,1427,0
+2022-02-23,Causeway Coast and Glens,166,1371,0
+2022-02-24,Causeway Coast and Glens,115,924,0
 2020-01-03,Derry City and Strabane,0,1,0
 2020-01-04,Derry City and Strabane,0,0,0
 2020-01-05,Derry City and Strabane,0,0,0
@@ -4556,7 +4561,7 @@ date,area,cases,tests,deaths
 2021-11-20,Derry City and Strabane,91,838,0
 2021-11-21,Derry City and Strabane,86,972,0
 2021-11-22,Derry City and Strabane,128,1352,1
-2021-11-23,Derry City and Strabane,114,1539,0
+2021-11-23,Derry City and Strabane,115,1539,0
 2021-11-24,Derry City and Strabane,104,1635,0
 2021-11-25,Derry City and Strabane,96,1100,1
 2021-11-26,Derry City and Strabane,70,990,0
@@ -4565,7 +4570,7 @@ date,area,cases,tests,deaths
 2021-11-29,Derry City and Strabane,128,1408,0
 2021-11-30,Derry City and Strabane,118,1755,0
 2021-12-01,Derry City and Strabane,127,1773,0
-2021-12-02,Derry City and Strabane,120,1541,0
+2021-12-02,Derry City and Strabane,119,1541,0
 2021-12-03,Derry City and Strabane,97,1368,2
 2021-12-04,Derry City and Strabane,112,1289,1
 2021-12-05,Derry City and Strabane,98,1419,0
@@ -4646,9 +4651,10 @@ date,area,cases,tests,deaths
 2022-02-18,Derry City and Strabane,156,953,0
 2022-02-19,Derry City and Strabane,150,802,0
 2022-02-20,Derry City and Strabane,183,1007,0
-2022-02-21,Derry City and Strabane,215,1282,0
-2022-02-22,Derry City and Strabane,191,1299,0
-2022-02-23,Derry City and Strabane,148,1077,0
+2022-02-21,Derry City and Strabane,215,1285,0
+2022-02-22,Derry City and Strabane,191,1341,0
+2022-02-23,Derry City and Strabane,177,1292,0
+2022-02-24,Derry City and Strabane,104,739,0
 2020-01-03,Fermanagh and Omagh,0,1,0
 2020-01-04,Fermanagh and Omagh,0,0,0
 2020-01-05,Fermanagh and Omagh,0,0,0
@@ -5430,8 +5436,9 @@ date,area,cases,tests,deaths
 2022-02-19,Fermanagh and Omagh,75,632,0
 2022-02-20,Fermanagh and Omagh,110,782,0
 2022-02-21,Fermanagh and Omagh,89,1112,0
-2022-02-22,Fermanagh and Omagh,161,1240,0
-2022-02-23,Fermanagh and Omagh,103,790,0
+2022-02-22,Fermanagh and Omagh,161,1249,0
+2022-02-23,Fermanagh and Omagh,134,940,0
+2022-02-24,Fermanagh and Omagh,88,690,0
 2020-01-03,Lisburn and Castlereagh,0,1,0
 2020-01-04,Lisburn and Castlereagh,0,0,0
 2020-01-05,Lisburn and Castlereagh,0,0,0
@@ -6211,10 +6218,11 @@ date,area,cases,tests,deaths
 2022-02-17,Lisburn and Castlereagh,227,1811,0
 2022-02-18,Lisburn and Castlereagh,218,1511,0
 2022-02-19,Lisburn and Castlereagh,218,1439,3
-2022-02-20,Lisburn and Castlereagh,260,1829,0
-2022-02-21,Lisburn and Castlereagh,287,2057,0
-2022-02-22,Lisburn and Castlereagh,238,1872,0
-2022-02-23,Lisburn and Castlereagh,177,1658,1
+2022-02-20,Lisburn and Castlereagh,259,1829,0
+2022-02-21,Lisburn and Castlereagh,286,2057,0
+2022-02-22,Lisburn and Castlereagh,238,1896,0
+2022-02-23,Lisburn and Castlereagh,205,1968,1
+2022-02-24,Lisburn and Castlereagh,184,1611,0
 2020-01-02,Mid and East Antrim,0,1,0
 2020-01-03,Mid and East Antrim,0,0,0
 2020-01-04,Mid and East Antrim,0,0,0
@@ -6997,8 +7005,9 @@ date,area,cases,tests,deaths
 2022-02-19,Mid and East Antrim,168,1066,0
 2022-02-20,Mid and East Antrim,187,1310,0
 2022-02-21,Mid and East Antrim,197,1615,0
-2022-02-22,Mid and East Antrim,173,1814,0
-2022-02-23,Mid and East Antrim,152,1279,0
+2022-02-22,Mid and East Antrim,173,1823,0
+2022-02-23,Mid and East Antrim,173,1499,0
+2022-02-24,Mid and East Antrim,116,1066,0
 2020-01-02,Mid Ulster,0,1,0
 2020-01-03,Mid Ulster,0,0,0
 2020-01-04,Mid Ulster,0,0,0
@@ -7781,8 +7790,9 @@ date,area,cases,tests,deaths
 2022-02-19,Mid Ulster,135,717,0
 2022-02-20,Mid Ulster,122,869,0
 2022-02-21,Mid Ulster,211,1627,0
-2022-02-22,Mid Ulster,166,1162,1
-2022-02-23,Mid Ulster,112,808,0
+2022-02-22,Mid Ulster,166,1173,1
+2022-02-23,Mid Ulster,130,998,0
+2022-02-24,Mid Ulster,70,626,1
 2020-01-01,"Newry, Mourne and Down",0,1,0
 2020-01-02,"Newry, Mourne and Down",0,0,0
 2020-01-03,"Newry, Mourne and Down",0,2,0
@@ -8564,10 +8574,11 @@ date,area,cases,tests,deaths
 2022-02-17,"Newry, Mourne and Down",173,1339,0
 2022-02-18,"Newry, Mourne and Down",167,1105,0
 2022-02-19,"Newry, Mourne and Down",156,975,1
-2022-02-20,"Newry, Mourne and Down",191,1300,1
-2022-02-21,"Newry, Mourne and Down",256,1925,0
-2022-02-22,"Newry, Mourne and Down",200,1622,0
-2022-02-23,"Newry, Mourne and Down",150,1280,0
+2022-02-20,"Newry, Mourne and Down",191,1310,1
+2022-02-21,"Newry, Mourne and Down",256,1932,0
+2022-02-22,"Newry, Mourne and Down",202,1644,0
+2022-02-23,"Newry, Mourne and Down",193,1622,0
+2022-02-24,"Newry, Mourne and Down",128,1048,0
 2020-01-05,Unknown,0,2,0
 2020-01-06,Unknown,0,1,0
 2020-01-07,Unknown,0,1,0
@@ -9337,18 +9348,19 @@ date,area,cases,tests,deaths
 2022-02-09,Unknown,22,1000,0
 2022-02-10,Unknown,32,1027,0
 2022-02-11,Unknown,21,751,0
-2022-02-12,Unknown,22,712,0
+2022-02-12,Unknown,22,711,0
 2022-02-13,Unknown,23,777,0
 2022-02-14,Unknown,23,1125,0
 2022-02-15,Unknown,34,1069,0
 2022-02-16,Unknown,30,942,0
-2022-02-17,Unknown,21,852,0
+2022-02-17,Unknown,21,854,0
 2022-02-18,Unknown,17,784,0
-2022-02-19,Unknown,16,684,0
+2022-02-19,Unknown,16,685,0
 2022-02-20,Unknown,15,715,0
-2022-02-21,Unknown,45,1195,0
-2022-02-22,Unknown,33,1018,0
-2022-02-23,Unknown,17,796,0
+2022-02-21,Unknown,45,1196,0
+2022-02-22,Unknown,33,1032,0
+2022-02-23,Unknown,22,906,0
+2022-02-24,Unknown,18,735,0
 2020-03-19,Missing Postcode,NA,NA,1
 2020-03-20,Missing Postcode,NA,NA,0
 2020-03-21,Missing Postcode,NA,NA,0
