@@ -19181,7 +19181,7 @@ admission_date,discharge_date,hsc_trust,hospital,age_band,gender,number_of_admis
 2022-03-29,2022-04-06,Northern,Antrim,Aged 60 - 69,Female,1
 2022-03-29,2022-04-13,Northern,Antrim,Aged 70 - 79,Female,1
 2022-03-29,2022-04-14,Northern,Antrim,Aged 60 - 69,Female,1
-2022-03-29,NA,Northern,Antrim,Aged 70 - 79,Male,1
+2022-03-29,2022-04-21,Northern,Antrim,Aged 70 - 79,Male,1
 2022-03-29,2022-04-04,Northern,Causeway,Aged 60 - 69,Male,1
 2022-03-29,NA,South Eastern,Downe,Aged 80 & Over,Male,1
 2022-03-29,NA,South Eastern,Lagan Valley,Aged 80 & Over,Female,1
@@ -19288,7 +19288,7 @@ admission_date,discharge_date,hsc_trust,hospital,age_band,gender,number_of_admis
 2022-04-01,2022-04-07,Northern,Causeway,Aged 70 - 79,Male,1
 2022-04-01,2022-04-08,Northern,Causeway,Aged 70 - 79,Male,1
 2022-04-01,2022-04-11,Northern,Causeway,Aged 80 & Over,Male,1
-2022-04-01,NA,Northern,Causeway,Aged 80 & Over,Male,1
+2022-04-01,2022-04-21,Northern,Causeway,Aged 80 & Over,Male,1
 2022-04-01,2022-04-11,Northern,Robinson Memorial,Aged 40 - 49,Female,1
 2022-04-01,2022-04-02,South Eastern,Lagan Valley,Aged 60 - 69,Female,1
 2022-04-01,2022-04-12,South Eastern,Lagan Valley,Aged 80 & Over,Male,1
@@ -19650,7 +19650,7 @@ admission_date,discharge_date,hsc_trust,hospital,age_band,gender,number_of_admis
 2022-04-13,NA,Western,South West Acute,Aged 50 - 59,Female,1
 2022-04-13,NA,Western,South West Acute,Aged 80 & Over,Male,1
 2022-04-14,2022-04-16,Belfast,Mater Infirmorum,Aged 70 - 79,Male,1
-2022-04-14,NA,Belfast,Mater Infirmorum,Aged 50 - 59,Male,1
+2022-04-14,2022-04-21,Belfast,Mater Infirmorum,Aged 50 - 59,Male,1
 2022-04-14,NA,Belfast,Mater Infirmorum,Unknown,Male,1
 2022-04-14,2022-04-19,Northern,Antrim,Aged 70 - 79,Female,1
 2022-04-14,2022-04-20,Northern,Antrim,Aged 20 - 39,Female,1
@@ -19670,7 +19670,7 @@ admission_date,discharge_date,hsc_trust,hospital,age_band,gender,number_of_admis
 2022-04-14,NA,Western,South West Acute,Aged 70 - 79,Female,1
 2022-04-14,NA,Western,South West Acute,Aged 80 & Over,Male,1
 2022-04-15,NA,Belfast,Mater Infirmorum,Unknown,Female,1
-2022-04-15,NA,Belfast,Mater Infirmorum,Unknown,Male,1
+2022-04-15,NA,Belfast,Mater Infirmorum,Unknown,Male,2
 2022-04-15,2022-04-17,Northern,Antrim,Aged 70 - 79,Male,1
 2022-04-15,2022-04-19,Northern,Antrim,Aged 50 - 59,Male,1
 2022-04-15,NA,Northern,Antrim,Aged 80 & Over,Female,2
@@ -19750,3 +19750,8 @@ admission_date,discharge_date,hsc_trust,hospital,age_band,gender,number_of_admis
 2022-04-20,NA,Southern,Craigavon Area,Aged 80 & Over,Female,1
 2022-04-20,NA,Southern,Daisy Hill,Aged 50 - 59,Female,1
 2022-04-20,NA,Western,South West Acute,Aged 80 & Over,Female,1
+2022-04-21,NA,Northern,Antrim,Aged 80 & Over,Male,1
+2022-04-21,NA,Northern,Causeway,Aged 20 - 39,Female,1
+2022-04-21,NA,Southern,Craigavon Area,Aged 80 & Over,Male,1
+2022-04-21,NA,Southern,Daisy Hill,Aged 80 & Over,Female,1
+2022-04-21,NA,Western,South West Acute,Aged 80 & Over,Male,1
